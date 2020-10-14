@@ -1,1 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T07:50:55.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="6sQtdsjMTenH7pdW8i2_" version="13.7.9" type="github"><diagram id="RdiVzA_gI4_yAzNuI2QI" name="Page-1">3Vddb9owFP01SN0DiCQNhcdCP6apTGjd1KlvN+SSmDh25jgF9ut3nQ9CCF0rjZZtL9g+13Gcc67PNR1nEq9vFSThVPrIO3bfX3ecq45tu6MR/RpgUwCOWwKBYn4BWTVwz35iCfZLNGM+po2JWkquWdIE51IInOsGBkrJVXPaQvLmWxMIsAXcz4G30Qfm67BAh26/xj8iC8LqzVa/jMRQTS6BNARfrnYg57rjTJSUuujF6wlyw13FS/HczTPR7cYUCv2aB9Kb28+Py4fzaObaw68Ps1XKpt1ylSfgWfnBUxS0TcEl+EY20EANlxGkjDoeiCVTJkCjAcRJxxkLLzUNjTltZOxReBCYXqi1UenS7Mm+SRNP9JIsXYBeQo9DAqIXyB5tz4RzhvSmol3JTPhodt6nhVYh03ifwNxEV5Rn+eIxp5GVv3mfieqzUGlc70AlM7coY9RqQ1PK6EUpUpmlVqXvqtbcrpQNd/QelRiUaRZsV66VoE4pxmFh3FH4pD93u19mPxae8/3u26M96zptYTIOrEUULUVHAV9LUouRA7w9S5JlNVly2iRZ9gGShm9F0nmLpKsiX+s0BVQQUmcJEag85oMwFGLENCixMdBZnBlHkXwTyDwYJh9aTNP5TUyX+ALOkctAQUzEJqgYfQ6q/disDrwkzoKtsTK/I4m1l9Hb8UsZvTWwo6vlHvCa2MsiowCRCCKIQFP/LhMQUXup5lMiqlIM/NqQ/twtjnoQzq1XnoTBW3E7OMAth4jINdRFUtD35ga+l+kRmg+XTBjifRRBPt9U2NRUSwSdKcyRet7fRv7o1ORftMifMc7Cunw+YaSlKoxl15Qqm5qYEktPG4hMgxoBsXkwpKprXi8znWRGotyvTi2A3RTAPWAt7yvA8DfOAmoesLQ3l3FNMrlNwKrsp5ujxiL/8+SPdw5OljTvQZppFjXrS2FNMRMs1aq4JC3Bo2uwBg+jk4u1Lb6bqhYfEGvgvmcdGD1XtSt227fNs97/UJL3pBgMTl6SKyttazGmxpSAy2Zqf6quUcayrjCRUdEdYyHZvy2Q03dfvDRZF0c6LDSs//zlsZ1/0M71Lw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-14T08:21:12.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="cqam6uZmJe9hF8ctsXE0" version="13.7.9" type="github">
+  <diagram id="RdiVzA_gI4_yAzNuI2QI" name="Page-1">
+    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jwY7nlyal5xQTjecuOSy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sFGNZjW4kP528TWPwsiM-1" target="59hvtN--RPqfb3XLUZ2P-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.334;entryY=-0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sFGNZjW4kP528TWPwsiM-1" target="59hvtN--RPqfb3XLUZ2P-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sFGNZjW4kP528TWPwsiM-1" value="Mendownload data &lt;br&gt;lokasi banjir di&amp;nbsp;&lt;br&gt;https://spbn.pusfatja.lapan.go.id/" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="120" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="59hvtN--RPqfb3XLUZ2P-3" target="sFGNZjW4kP528TWPwsiM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59hvtN--RPqfb3XLUZ2P-3" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="277.5" y="20" width="112.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="59hvtN--RPqfb3XLUZ2P-4" target="59hvtN--RPqfb3XLUZ2P-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59hvtN--RPqfb3XLUZ2P-4" value="Data banjir daerah jakarta &lt;br&gt;dan sekitarnya &lt;br&gt;(multipolygon shp)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="230" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="59hvtN--RPqfb3XLUZ2P-5" target="59hvtN--RPqfb3XLUZ2P-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59hvtN--RPqfb3XLUZ2P-5" value="Membuka perangkat Lunak ArcMap dan add data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="258.75" y="340" width="152.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="59hvtN--RPqfb3XLUZ2P-6" target="59hvtN--RPqfb3XLUZ2P-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59hvtN--RPqfb3XLUZ2P-6" value="Melakukan konversi multipolygon ke point dengan tools feature to point" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="440" width="151.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="59hvtN--RPqfb3XLUZ2P-7" target="59hvtN--RPqfb3XLUZ2P-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59hvtN--RPqfb3XLUZ2P-7" value="Pilih data vektor shp daerah banjir, lalu beri nama hasil output nya" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="540" width="151.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="59hvtN--RPqfb3XLUZ2P-8" target="jwY7nlyal5xQTjecuOSy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59hvtN--RPqfb3XLUZ2P-8" value="Membuka web arcgis.com lalu pergi ke content dan melakukan upload data titik banjir dan administrasi jabodetabek" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="411.25" y="750" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59hvtN--RPqfb3XLUZ2P-9" target="jwY7nlyal5xQTjecuOSy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59hvtN--RPqfb3XLUZ2P-9" value="Data titik lokasi&lt;br&gt;&amp;nbsp;banjir (.shp)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="550" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="59hvtN--RPqfb3XLUZ2P-10" target="59hvtN--RPqfb3XLUZ2P-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59hvtN--RPqfb3XLUZ2P-10" value="Data Batas Administrasi Jakarta, Depok, Bekasi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="230" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jwY7nlyal5xQTjecuOSy-2" target="jwY7nlyal5xQTjecuOSy-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="717.8235294117646" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-2" value="Melakukan clip data vektor data titik lokasi banjir dengan data batas administrasi sebagai pemotongnya." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="540" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jwY7nlyal5xQTjecuOSy-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="785" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-3" value="Data titik lokasi&lt;br&gt;&amp;nbsp;banjir jakarta dan &lt;br&gt;sekitarnya (.shp)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="637.5" y="750" width="152.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-4" value="Pilih menu map lalu add data search for layer batas administrasi dan titik banjir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411.25" y="870" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jwY7nlyal5xQTjecuOSy-5" target="jwY7nlyal5xQTjecuOSy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-5" value="Pilih menu map lalu add data search for layer batas administrasi dan titik banjir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="650" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-21" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" y="750" as="sourcePoint" />
+            <mxPoint x="845" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-23" value="&lt;h2&gt;ArCGIS Desktop&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-24" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="320" as="sourcePoint" />
+            <mxPoint x="840" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jwY7nlyal5xQTjecuOSy-25" value="&lt;h2&gt;Download Data&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="290" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
