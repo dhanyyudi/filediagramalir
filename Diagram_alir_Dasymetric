@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T21:54:32.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.8.0" etag="3ZglxUc-GIZe18oywLIM" type="github"><diagram id="Y4n9mUgPTDRVLGrrvtTY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-19T22:43:42.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="RBiFO7H7mWBUN_MGx-uD" version="13.8.0" type="github">
+  <diagram id="Y4n9mUgPTDRVLGrrvtTY" name="Page-1">
+    <mxGraphModel dx="1021" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-2" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-4" value="Raster landcover" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="184" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-5" value="Beaverton_Creek" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-6" value="BlockGroups" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="444" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-8" value="Lab4.gdb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="349" y="100" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-9" value="Mengatur analysis extent and cell size" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-10" value="Menghitung Nilai N diperoleh dari generate data&lt;br&gt;raster block group." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="410" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-12" value="Membuat data relative density tiap sel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="530" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-13" value="Menghitung nilai E untuk menghasilkan&lt;br/&gt;populasi per block group&lt;br/&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="640" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-14" value="Membuat tabel untuk menghitung nilai E dan PA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="800" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-15" value="Menginput data tabular yang berisi nilai P dan E pada layer Blockgroups" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="960" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-16" value="Konversi data blockgroups menjadi raster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="1070" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-17" value="Hitung populasi per sel menggunakan Raster Calculator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="1220" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-18" value="Aktifkan layer raster populasi per cell&amp;nbsp; lakukan pengaturan simbologi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="1330" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-19" value="Geoprocessing → Environment → Processing Extent (same as layer landcover) → Raster analysis (same as layer landcover) → OK." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="504" y="290" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-20" value="Field POP90 → data jumlah&lt;br/&gt;penduduk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="425" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-22" value="Eksport data BlockGroups to raster → ArcToolbox → Convertion&lt;br/&gt;Tools → To Raster → Polygon to&lt;br/&gt;raster → value field yang digunakan&lt;br/&gt;POP90 → OK." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="410" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-23" value="Reklasifikasi data land-cover. Masukkan&lt;br/&gt;nilai RA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="550" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-24" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;1 → 15&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;2→ 65&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;3→ 5&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;4 → 10&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;5→ 5&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;6→ 0&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="184" y="510" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-25" value="Export data block groups dari&lt;br&gt;polygon menjadi raster dengan value&lt;br&gt;field FIPS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="640" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-26" value="ArcToolbox → Spatial Analyst → Zonal → Tabulate Area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95.5" y="730" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-27" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;add field:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;• P1 sampai P5 (type data : double)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;• Total (type data : double)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;• E (type data : double)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="511" y="750" width="226" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-28" value="Field Calculator P1 → P5&lt;br&gt;P/Total (P1, P2, P3, P4, P5)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="860" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-29" value="Field Calculator E&lt;br&gt;P1*15, P2*65, P3*5, P4*10, P5*5)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="810" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-30" value="Field Calculator Total&lt;br&gt;Value 1 + Value 2 + Value 3 + Value 4 + Value 5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="890" width="269" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-32" value="Join and Relates" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="970" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-33" value="Konversi data blockgroups menjadi raster → Polygon to Raster&lt;br&gt;→&amp;nbsp; value field (1. Total) (2.E)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95.5" y="1050" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-34" value="density * Blockgroups_raster * 133.058 * 133.058 / (E*Total_density(" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1230" width="204" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-35" value="Layouting Peta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="1430" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-36" value="Peta Dasymetric Jumlah Penduduk" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="1550" width="124" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NyhfX3FfjdbM7vUk2b1N-37" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1640" width="100" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
