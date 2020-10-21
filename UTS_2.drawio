@@ -1,1 +1,151 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T09:25:15.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.8.1" etag="AcjKh-5osPuw4pUxQcQV" type="github"><diagram id="pIQgH2esLzyzit6kOruQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-21T09:26:51.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="DgcDsgI1yEUSA7yMo9xO" version="13.8.1" type="github">
+  <diagram id="pIQgH2esLzyzit6kOruQ" name="Page-1">
+    <mxGraphModel dx="597" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pADt4tqOOu7SVxWmCGsy-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1272" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-3" target="pADt4tqOOu7SVxWmCGsy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-3" value="Membuat tabel untuk menghitung nilai E dan PA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1207" y="150" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=-0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-5" target="pADt4tqOOu7SVxWmCGsy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-5" value="Menginput data tabular yang berisi nilai P dan E pada layer Blockgroups" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1207" y="310" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-7" target="pADt4tqOOu7SVxWmCGsy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-7" value="Konversi data kecamatan_kp menjadi raster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1207" y="439" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-9" target="pADt4tqOOu7SVxWmCGsy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-9" value="Hitung populasi per sel menggunakan Raster Calculator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1207" y="560" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-11" target="pADt4tqOOu7SVxWmCGsy-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-11" value="Aktifkan layer raster populasi per cell&amp;nbsp; lakukan pengaturan simbologi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1207" y="670" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-13" target="pADt4tqOOu7SVxWmCGsy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-13" value="ArcToolbox → Spatial Analyst → Zonal → Tabulate Area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="986.5" y="80" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-15" target="pADt4tqOOu7SVxWmCGsy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-15" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;add field:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;• P1 sampai P4 (type data : double)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;• Total (type data : double)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;• E (type data : double)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1402" y="100" width="226" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-17" target="pADt4tqOOu7SVxWmCGsy-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1371" y="240" />
+              <mxPoint x="1371" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-17" value="Field Calculator P1 → P4&lt;br&gt;P/Total (P1, P2, P3, P4)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1412" y="210" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-19" target="pADt4tqOOu7SVxWmCGsy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-19" value="Field Calculator E&lt;br&gt;P1*1, P2*2, P3*3, P4*4)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="962" y="160" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-21" target="pADt4tqOOu7SVxWmCGsy-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1187" y="270" />
+              <mxPoint x="1187" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-21" value="Field Calculator Total&lt;br&gt;Value 1 + Value 2 + Value 3 + Value 4&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="901" y="240" width="269" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.977;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-23" target="pADt4tqOOu7SVxWmCGsy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-23" value="Join and Relates" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1412" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-25" target="pADt4tqOOu7SVxWmCGsy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-25" value="Konversi data blockgroups menjadi raster → Polygon to Raster&lt;br&gt;→&amp;nbsp; value field (1. Total) (2.E)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="962" y="424" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-27" target="pADt4tqOOu7SVxWmCGsy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-27" value="density * kec_raster * 119.695 * 119.695 / (E*Total_density)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1394" y="570" width="204" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-29" target="pADt4tqOOu7SVxWmCGsy-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-29" value="Layouting Peta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="780" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pADt4tqOOu7SVxWmCGsy-31" target="pADt4tqOOu7SVxWmCGsy-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-31" value="Peta Dasymetric Jumlah Penduduk" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1213" y="900" width="124" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-32" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="990" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1429" y="890" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-34" value="" style="group" vertex="1" connectable="0" parent="pADt4tqOOu7SVxWmCGsy-33">
+          <mxGeometry width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pADt4tqOOu7SVxWmCGsy-34">
+          <mxGeometry x="-10" y="-20" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-36" value="" style="endArrow=classic;html=1;fillColor=#FF0000;" edge="1" parent="pADt4tqOOu7SVxWmCGsy-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="10" as="sourcePoint" />
+            <mxPoint x="61" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-37" value="" style="endArrow=classic;html=1;fillColor=#ffe6cc;dashed=1;strokeColor=#d79b00;" edge="1" parent="pADt4tqOOu7SVxWmCGsy-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="50" as="sourcePoint" />
+            <mxPoint x="61" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-38" value="Langkah yang digunakan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pADt4tqOOu7SVxWmCGsy-34">
+          <mxGeometry x="58" y="40" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-39" value="Proses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pADt4tqOOu7SVxWmCGsy-34">
+          <mxGeometry x="65" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-40" value="Keterangan :" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pADt4tqOOu7SVxWmCGsy-34">
+          <mxGeometry y="-20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pADt4tqOOu7SVxWmCGsy-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1257" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
