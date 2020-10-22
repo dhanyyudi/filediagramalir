@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T15:04:29.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.1" etag="aXv0O4eu4ikHcHHtCQNi" type="github"><diagram id="9lxYzncLYK4telSM54-0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-22T15:10:52.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="PFvOL9xAWyT6C-azHAgG" version="13.8.1" type="github">
+  <diagram id="9lxYzncLYK4telSM54-0" name="Page-1">
+    <mxGraphModel dx="723" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="20" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-2" value="Peta Topografi dengan desain trase" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-3" value="Melakukan ekstraksi data dari desain trase yang ada di peta topografi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="220" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-4" value="Menentukan kriteria perencanaan alinyemen vertikal (Vr,S,K factor)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-5" value="Menyiapkan data penentuan desain alinyemen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-6" value="PVI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="255" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-8" value="g1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="295" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-9" value="g2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="335" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-10" value="L" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="375" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-12" value="Menyiapkan data penentuan desain alinyemen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="295" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
