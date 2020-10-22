@@ -1,38 +1,113 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T15:10:52.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="PFvOL9xAWyT6C-azHAgG" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-22T16:21:54.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="iH7TF_xal_q-bg4Nvm4L" version="13.8.1" type="github">
   <diagram id="9lxYzncLYK4telSM54-0" name="Page-1">
-    <mxGraphModel dx="723" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="82lSh0fHa8cDDUqzh_6p-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82lSh0fHa8cDDUqzh_6p-1" target="82lSh0fHa8cDDUqzh_6p-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="62.5" y="20" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="82lSh0fHa8cDDUqzh_6p-2" value="Peta Topografi dengan desain trase" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82lSh0fHa8cDDUqzh_6p-2" target="82lSh0fHa8cDDUqzh_6p-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-2" value="Peta Topografi dengan desain trase" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="110" width="155" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="82lSh0fHa8cDDUqzh_6p-3" value="Melakukan ekstraksi data dari desain trase yang ada di peta topografi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82lSh0fHa8cDDUqzh_6p-3" target="82lSh0fHa8cDDUqzh_6p-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-3" value="Melakukan ekstraksi data dari desain trase yang ada di peta topografi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="32.5" y="220" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="82lSh0fHa8cDDUqzh_6p-4" value="Menentukan kriteria perencanaan alinyemen vertikal (Vr,S,K factor)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="82lSh0fHa8cDDUqzh_6p-4" target="82lSh0fHa8cDDUqzh_6p-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-4" value="Menentukan kriteria perencanaan alinyemen vertikal (Vr,S,K factor)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="300" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="82lSh0fHa8cDDUqzh_6p-5" value="Menyiapkan data penentuan desain alinyemen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="82lSh0fHa8cDDUqzh_6p-5" target="82lSh0fHa8cDDUqzh_6p-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="82lSh0fHa8cDDUqzh_6p-5" target="82lSh0fHa8cDDUqzh_6p-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="82lSh0fHa8cDDUqzh_6p-5" target="82lSh0fHa8cDDUqzh_6p-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="82lSh0fHa8cDDUqzh_6p-5" target="82lSh0fHa8cDDUqzh_6p-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-5" value="Menyiapkan data penentuan desain alinyemen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="300" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="82lSh0fHa8cDDUqzh_6p-6" value="PVI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="255" width="70" height="30" as="geometry" />
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="82lSh0fHa8cDDUqzh_6p-6" target="82lSh0fHa8cDDUqzh_6p-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="82lSh0fHa8cDDUqzh_6p-8" value="g1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="295" width="70" height="30" as="geometry" />
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-6" value="PVI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="247.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="82lSh0fHa8cDDUqzh_6p-9" value="g2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="335" width="70" height="30" as="geometry" />
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="82lSh0fHa8cDDUqzh_6p-8" target="82lSh0fHa8cDDUqzh_6p-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="82lSh0fHa8cDDUqzh_6p-10" value="L" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="375" width="70" height="30" as="geometry" />
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-8" value="g1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="292.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="82lSh0fHa8cDDUqzh_6p-12" value="Menyiapkan data penentuan desain alinyemen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="295" width="150" height="60" as="geometry" />
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="82lSh0fHa8cDDUqzh_6p-9" target="82lSh0fHa8cDDUqzh_6p-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-9" value="g2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="337.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="82lSh0fHa8cDDUqzh_6p-10" target="82lSh0fHa8cDDUqzh_6p-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-10" value="L" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="382.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82lSh0fHa8cDDUqzh_6p-12" target="6G_-vgYWxoV5ibxXwPTB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82lSh0fHa8cDDUqzh_6p-12" target="6G_-vgYWxoV5ibxXwPTB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82lSh0fHa8cDDUqzh_6p-12" value="Melakukan perhitungan elevasi curve tiap STA dengan metode yang disediakan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="300" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6G_-vgYWxoV5ibxXwPTB-1" target="6G_-vgYWxoV5ibxXwPTB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-1" value="Tangent Offsett&amp;nbsp; Quadratic Equation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="395" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6G_-vgYWxoV5ibxXwPTB-2" target="6G_-vgYWxoV5ibxXwPTB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-2" value="Proportional Value" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="395" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6G_-vgYWxoV5ibxXwPTB-4" target="6G_-vgYWxoV5ibxXwPTB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-4" value="Tabel Elevasi Curve per STA&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="465" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6G_-vgYWxoV5ibxXwPTB-5" target="6G_-vgYWxoV5ibxXwPTB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-5" value="Memplotting elevasi ke milimeter blok" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="565" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6G_-vgYWxoV5ibxXwPTB-6" target="6G_-vgYWxoV5ibxXwPTB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-6" value="Desain Alinyemen &lt;br&gt;Vertikal Manual&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="655" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6G_-vgYWxoV5ibxXwPTB-7" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="755" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
