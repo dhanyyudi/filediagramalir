@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-14T21:07:03.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="mYcr7pkeqsk2rB4h-mZ_" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-14T21:07:54.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="HGUI__PxPge8AmKOZvJK" version="13.9.8" type="github">
   <diagram id="JSvCJH00lzNoP428U_ZJ" name="Page-1">
-    <mxGraphModel dx="1447" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,8 +58,14 @@
         <mxCell id="pdJDc8WbNTLkQnya-NgZ-10" value="Membuka QGIS lalu add WFS connection isikan alamat geoserver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="560" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pdJDc8WbNTLkQnya-NgZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pdJDc8WbNTLkQnya-NgZ-11" target="pdJDc8WbNTLkQnya-NgZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pdJDc8WbNTLkQnya-NgZ-11" value="Menambahkan data dengan add data untuk ditampilkan di QGIS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="650" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdJDc8WbNTLkQnya-NgZ-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="740" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
