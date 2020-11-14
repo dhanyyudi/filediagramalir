@@ -1,0 +1,140 @@
+<mxfile host="app.diagrams.net" modified="2020-11-14T21:16:35.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="oqk3v3toWKkz2_rG0TcY" version="13.9.8" type="github">
+  <diagram id="JSvCJH00lzNoP428U_ZJ" name="Page-1">
+    <mxGraphModel dx="1240" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pdJDc8WbNTLkQnya-NgZ-21" target="gmLwNUtd5TpPPi0eZ3GP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdJDc8WbNTLkQnya-NgZ-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="405" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-1" target="gmLwNUtd5TpPPi0eZ3GP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-1" target="gmLwNUtd5TpPPi0eZ3GP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-1" value="Melakukan Analisa Spasial" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-2" target="gmLwNUtd5TpPPi0eZ3GP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-2" value="Network Analyst : Analisis Jalur Terdekat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-3" target="gmLwNUtd5TpPPi0eZ3GP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-3" value="Overlay : Clip Object" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-4" target="gmLwNUtd5TpPPi0eZ3GP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-4" value="Jaringan jalan, KRB Merapi, dan Titik Kantor Pemerintahan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="290" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-5" target="gmLwNUtd5TpPPi0eZ3GP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-5" value="Batas Desa, &lt;br&gt;KRB Merapi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="290" width="145" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.564;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-6" target="gmLwNUtd5TpPPi0eZ3GP-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="500" />
+              <mxPoint x="180" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.542;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-6" target="gmLwNUtd5TpPPi0eZ3GP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-6" target="gmLwNUtd5TpPPi0eZ3GP-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="500" />
+              <mxPoint x="420" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-6" value="Piluh Shortest path dan pilih titik awal serta akhir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-7" target="gmLwNUtd5TpPPi0eZ3GP-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="173" y="590" />
+              <mxPoint x="300" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-7" value="Jalur Terdekat 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300.3103448275863" y="600.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-8" value="Jalur Terdekat 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-9" target="gmLwNUtd5TpPPi0eZ3GP-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="590" />
+              <mxPoint x="300" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-9" value="Jalur Terdekat 3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-11" target="gmLwNUtd5TpPPi0eZ3GP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-11" value="Input Layer : Batas Desa&lt;br&gt;Overlay Layer : KRB Merapi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-12" target="gmLwNUtd5TpPPi0eZ3GP-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-12" value="Batas Desa Clipped" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="520" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-13" target="gmLwNUtd5TpPPi0eZ3GP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-13" value="Peta Jalur Terdekat dari titik rawan ke pusat pemerintahan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="226.25" y="680" width="147.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-14" target="gmLwNUtd5TpPPi0eZ3GP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-14" value="Layouting Peta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-15" target="gmLwNUtd5TpPPi0eZ3GP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-15" value="Layouting Peta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmLwNUtd5TpPPi0eZ3GP-16" target="gmLwNUtd5TpPPi0eZ3GP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-16" value="Luas Desa yang terdampak kawasan rawan bencana Merapi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="461.25" y="680" width="147.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gmLwNUtd5TpPPi0eZ3GP-17" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="850" width="115" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
