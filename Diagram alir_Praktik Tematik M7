@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T17:18:40.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="mBqiky4oXigZKHQ396gp" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T17:29:05.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="bsD7b2UuiVRQ-_B-mB6a" version="13.9.9" type="github">
   <diagram id="3COsYGYt_vWlz6IJYdIE" name="Page-1">
     <mxGraphModel dx="723" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="390" y="10" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OYUYefCxvU00MBraMp8H-2" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="1080" width="100" height="50" as="geometry" />
+          <mxGeometry x="390" y="760" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ewmGRaRuSraJrd0Un3xP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OYUYefCxvU00MBraMp8H-3" target="ewmGRaRuSraJrd0Un3xP-1">
           <mxGeometry relative="1" as="geometry" />
@@ -59,17 +59,74 @@
         <mxCell id="ewmGRaRuSraJrd0Un3xP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewmGRaRuSraJrd0Un3xP-6" target="ewmGRaRuSraJrd0Un3xP-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ewmGRaRuSraJrd0Un3xP-6" value="Peta Jumlah dan Jenis lahan di Indonesia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-6" value="Data Jumlah dan Jenis lahan di Indonesia 2019" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ewmGRaRuSraJrd0Un3xP-7" value="Peta Jumlah dan Jenis Hutan di Indonesia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewmGRaRuSraJrd0Un3xP-7" target="ewmGRaRuSraJrd0Un3xP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-7" value="Data Jumlah dan Jenis Hutan di Indonesia 2019" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ewmGRaRuSraJrd0Un3xP-8" value="Peta Jenis dan Jumlah SPBU di Jateng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewmGRaRuSraJrd0Un3xP-8" target="ewmGRaRuSraJrd0Un3xP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-8" value="Data Jenis dan Jumlah SPBU di Jateng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ewmGRaRuSraJrd0Un3xP-15" value="Peta Jumlah dan Jenis lahan di Indonesia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-15" value="Simbolisasi : Dot Density Map dan Graduated Color" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewmGRaRuSraJrd0Un3xP-17" target="ewmGRaRuSraJrd0Un3xP-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-17" value="Simbolisasi : Pie Chart dan Chloropleth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-18" value="Simbolisasi : Pie Chart dan Chloropleth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewmGRaRuSraJrd0Un3xP-21" target="ewmGRaRuSraJrd0Un3xP-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewmGRaRuSraJrd0Un3xP-21" target="ewmGRaRuSraJrd0Un3xP-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="640" />
+              <mxPoint x="570" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewmGRaRuSraJrd0Un3xP-21" target="ewmGRaRuSraJrd0Un3xP-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="640" />
+              <mxPoint x="300" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-21" value="Layouting Peta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ewmGRaRuSraJrd0Un3xP-22" target="OYUYefCxvU00MBraMp8H-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-22" value="&lt;span&gt;Peta Jumlah dan Jenis lahan di Indonesia&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewmGRaRuSraJrd0Un3xP-23" target="OYUYefCxvU00MBraMp8H-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-23" value="Peta Jumlah dan Jenis Hutan di Indonesia" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ewmGRaRuSraJrd0Un3xP-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-24" value="Peta Jenis dan Jumlah SPBU di Jateng" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
