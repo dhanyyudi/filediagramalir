@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T16:58:37.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="sZIfATWyzduWyq3h2yhg" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T17:01:54.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="uyjMnu_8f3T-1xN-ymTv" version="13.9.9" type="github">
   <diagram id="3COsYGYt_vWlz6IJYdIE" name="Page-1">
     <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,10 +11,13 @@
           <mxGeometry x="390" y="1080" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OYUYefCxvU00MBraMp8H-3" value="Data Peta Tematik (elok)&lt;br&gt;Data BPS Jateng" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="375" y="90" width="130" height="60" as="geometry" />
+          <mxGeometry x="284" y="90" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ewmGRaRuSraJrd0Un3xP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ewmGRaRuSraJrd0Un3xP-2" value="Data SHP Provinsi Indonesia dan SHP Kabupaten Jawa Tengah" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="90" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
