@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T17:41:15.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.9.9" etag="LpSTKIm8AkkfgI7FDUDS" type="github"><diagram id="p1EqGu5oZOu5YLFE4VdY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-18T17:49:07.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="UgqAR1BPUJN8IPZivy06" version="13.9.9" type="github">
+  <diagram id="p1EqGu5oZOu5YLFE4VdY" name="Page-1">
+    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="30" width="96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-2" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="230" width="96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-3" value="Menambahkan data attribut (.xls) dan data spasial ke Arcmap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-4" value="Data attribut dari Badan Pusat &lt;br&gt;Statistik" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-5" value="Data Spasial &lt;br&gt;Provinsi Indonesia" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-6" value="Data Spasial Kabupaten Jawa Tengah" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-7" value="Pada layer data spasial klik kanan lalu pilih join and relates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-8" value="Data spasial dan attribut&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-9" value="Melakukan simbologi sesuai dengan jenis data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-10" value="Data Jumlah dan Jenis lahan hutan dan non hutan Indonesia 2019" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-11" value="Data Jenis dan Luas hutan menurut fungsinya 2019" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-12" value="Data Jumlah dan Jenis Tanaman Pangan di Kabupaten Jawa Tengah 2018" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-13" value="Simbologi : Pie chart dan Proportional Symbol&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-14" value="Simbologi : Bar Chart dan Chloropleth&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-15" value="Simbologi : Pie Chart dan Chloropleth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-16" value="Layout peta ukuran A4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-17" value="Layout peta ukuran A4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-18" value="Layout peta ukuran A4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-19" value="&lt;span&gt;Data Jumlah dan Jenis lahan hutan dan non hutan Indonesia 2019&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="900" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-20" value="Data Jenis dan Luas&lt;br&gt;&amp;nbsp;hutan menurut fungsinya 2019" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="900" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tXx2y3Ha_KLp86AkIM57-21" value="Data Jumlah dan Jenis Tanaman Pangan di Kabupaten Jawa Tengah 2018" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="900" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
