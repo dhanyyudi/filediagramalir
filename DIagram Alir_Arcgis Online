@@ -1,47 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T14:29:05.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ZKwwFSRm4ubV5DyDdWLP" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T14:31:13.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="y2y5WTBY2hBIBPKwP8mc" version="13.10.0" type="github">
   <diagram id="S3b1ejNnGfNShYjLs0mS" name="Page-1">
-    <mxGraphModel dx="1140" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="891" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.467;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eIOyYnSo-qdQZoVoFgJk-1" target="eIOyYnSo-qdQZoVoFgJk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="286" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIOyYnSo-qdQZoVoFgJk-2" target="eIOyYnSo-qdQZoVoFgJk-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-2" value="Mengakses https:arcgis.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIOyYnSo-qdQZoVoFgJk-3" target="eIOyYnSo-qdQZoVoFgJk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-3" value="Membuat Webmap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIOyYnSo-qdQZoVoFgJk-4" target="eIOyYnSo-qdQZoVoFgJk-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-4" value="Membuat akun arcgis di learn.arcgis.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIOyYnSo-qdQZoVoFgJk-5" target="eIOyYnSo-qdQZoVoFgJk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-5" value="Pilih tab Map lalu New Map dan Create a New Map" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIOyYnSo-qdQZoVoFgJk-6" target="eIOyYnSo-qdQZoVoFgJk-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-6" value="Isikan Judul dan Tag beserta deskripsi nya" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIOyYnSo-qdQZoVoFgJk-7" target="eIOyYnSo-qdQZoVoFgJk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-7" value="Add layer from web lalu masukkan&amp;nbsp;&lt;br&gt;http://geoportal.&lt;br&gt;menlhk.go.id/arcgis&lt;br&gt;/rest/services/KLHK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="410" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIOyYnSo-qdQZoVoFgJk-8" target="eIOyYnSo-qdQZoVoFgJk-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-8" value="Pilih file Tutupan Lahan lalu tambahkan basemap provinsi dari file prov.zip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="520" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIOyYnSo-qdQZoVoFgJk-9" target="eIOyYnSo-qdQZoVoFgJk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-9" value="Save Map&lt;br&gt;centang share for everyone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="640" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIOyYnSo-qdQZoVoFgJk-10" target="eIOyYnSo-qdQZoVoFgJk-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-10" value="Share - Create WebApp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="550" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIOyYnSo-qdQZoVoFgJk-11" target="eIOyYnSo-qdQZoVoFgJk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-11" value="Memilih Template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="460" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIOyYnSo-qdQZoVoFgJk-12" target="eIOyYnSo-qdQZoVoFgJk-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-12" value="Memilih Template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="380" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eIOyYnSo-qdQZoVoFgJk-13" target="eIOyYnSo-qdQZoVoFgJk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-13" value="Mengisi judul dan attribut Web App - Lalu Launch - Copy link nya untuk di share sebagai Web App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eIOyYnSo-qdQZoVoFgJk-15" target="eIOyYnSo-qdQZoVoFgJk-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-15" value="&lt;span&gt;Web App KLHK Indonesia Tahun 2019&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="285" width="120" height="60" as="geometry" />
