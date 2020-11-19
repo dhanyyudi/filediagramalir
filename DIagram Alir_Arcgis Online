@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T14:19:45.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="cq3Rit-66fGfXZ5UgUMq" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T14:29:05.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ZKwwFSRm4ubV5DyDdWLP" version="13.10.0" type="github">
   <diagram id="S3b1ejNnGfNShYjLs0mS" name="Page-1">
-    <mxGraphModel dx="950" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1140" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="20" width="90" height="60" as="geometry" />
+          <mxGeometry x="286" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-2" value="Mengakses https:arcgis.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-3" value="Membuat Webmap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
@@ -27,6 +27,27 @@
         </mxCell>
         <mxCell id="eIOyYnSo-qdQZoVoFgJk-8" value="Pilih file Tutupan Lahan lalu tambahkan basemap provinsi dari file prov.zip" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="520" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-9" value="Save Map&lt;br&gt;centang share for everyone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="640" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-10" value="Share - Create WebApp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="550" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-11" value="Memilih Template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-12" value="Memilih Template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-13" value="Mengisi judul dan attribut Web App - Lalu Launch - Copy link nya untuk di share sebagai Web App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-15" value="&lt;span&gt;Web App KLHK Indonesia Tahun 2019&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIOyYnSo-qdQZoVoFgJk-16" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="400" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
