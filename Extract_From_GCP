@@ -1,62 +1,131 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T15:12:34.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="JztOwX244F_Pk0m_Ptbv" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T15:17:20.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="EK4OdES58OQXSL8lJm2A" version="13.10.0" type="github">
   <diagram id="U1jCwIcdergEk2CHggpr" name="Page-1">
     <mxGraphModel dx="1259" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-1" target="nRqWvGEwBIckLTUcKhDp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="20" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-2" target="nRqWvGEwBIckLTUcKhDp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-2" value="Memasukkan citra &lt;br&gt;yang akan dilakukan orthorektifikasi pada &lt;br&gt;Data Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="320" width="140" height="80" as="geometry" />
+          <mxGeometry x="170" y="320" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-3" target="nRqWvGEwBIckLTUcKhDp-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-3" value="Membuka OrthoEngine dan membuat project baru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-4" target="nRqWvGEwBIckLTUcKhDp-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-4" value="Mengatur sistem proyeksi GCP dan hasil pengolahan serta resolusi spasial citra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="220" width="120" height="70" as="geometry" />
+          <mxGeometry x="180" y="220" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-5" value="Beralih ke GCP/TP Collection pada Processing Step" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="430" width="120" height="70" as="geometry" />
+          <mxGeometry x="180" y="430" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-6" target="nRqWvGEwBIckLTUcKhDp-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-6" value="Pilih tools Collect GCPs Manually dan masukkan data DEM&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="530" width="120" height="70" as="geometry" />
+          <mxGeometry x="180" y="545" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-7" target="nRqWvGEwBIckLTUcKhDp-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-7" value="Memasukkan titik kontrol dengan cara klik titik pada citra (tanda + warna merah) lalu jika sudah sesuai klik kanan use point" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="530" width="120" height="100" as="geometry" />
+          <mxGeometry x="365" y="530" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-8" target="nRqWvGEwBIckLTUcKhDp-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-8" value="Masukkan semua titik satu persatu secara manual sesuai koordinat lalu cek hasil RMS Error" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="640" width="120" height="100" as="geometry" />
+          <mxGeometry x="365" y="380" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-9" target="nRqWvGEwBIckLTUcKhDp-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-9" value="Titik koordinat GCP" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="400" width="140" height="80" as="geometry" />
+          <mxGeometry x="355" y="660" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-10" target="nRqWvGEwBIckLTUcKhDp-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-10" value="Sebaran GCP pada Google Earth" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="290" width="140" height="80" as="geometry" />
+          <mxGeometry x="520" y="540" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-27" value="Ya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-11" target="nRqWvGEwBIckLTUcKhDp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-11" target="nRqWvGEwBIckLTUcKhDp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-33" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nRqWvGEwBIckLTUcKhDp-32">
+          <mxGeometry x="-0.3864" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-11" value="RMSE &amp;lt;= 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="730" width="80" height="80" as="geometry" />
+          <mxGeometry x="495" y="260" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-12" target="nRqWvGEwBIckLTUcKhDp-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-12" value="Cek RMS masing-masing titik yang terbesar dan lakukan pergeseran titik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="610" width="120" height="100" as="geometry" />
+          <mxGeometry x="365" y="150" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.237;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-13" target="nRqWvGEwBIckLTUcKhDp-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-13" value="Kembali ke Processing step lalu pilih Ortho Generation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="670" width="120" height="100" as="geometry" />
+          <mxGeometry x="625" y="260" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-14" target="nRqWvGEwBIckLTUcKhDp-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
-          <mxGeometry x="790" y="692" width="57" height="56" as="geometry" />
+          <mxGeometry x="766.5" y="290" width="57" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-15" target="nRqWvGEwBIckLTUcKhDp-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-15" value="Masukkan citra yang akan diolah ke kolom sebelah kanan lalu isikan data DEM nya" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="800" width="120" height="100" as="geometry" />
+          <mxGeometry x="845" y="270" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-16" target="nRqWvGEwBIckLTUcKhDp-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-16" value="Generate Orthos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="850" width="120" height="100" as="geometry" />
+          <mxGeometry x="855" y="400" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-17" target="nRqWvGEwBIckLTUcKhDp-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-17" value="Cek hasil orthorektifikasi pada data input lalu pilih ortho images" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="940" width="120" height="100" as="geometry" />
+          <mxGeometry x="845" y="490" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nRqWvGEwBIckLTUcKhDp-18" target="nRqWvGEwBIckLTUcKhDp-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nRqWvGEwBIckLTUcKhDp-18" value="Masuk ke menu report RMS lalu print dan cek selisih koordinat asli lapangan dengan koordinat hasil orthorektifikasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="970" width="120" height="100" as="geometry" />
+          <mxGeometry x="675" y="490" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nRqWvGEwBIckLTUcKhDp-19" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="620" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
