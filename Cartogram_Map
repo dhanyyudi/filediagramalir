@@ -1,1 +1,119 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T12:50:29.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.0" etag="HDTD4EYNJpVoJSPUU_Tn" type="github"><diagram id="BbxMTAofdHPQCKb9HpOu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-25T13:01:27.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ZftHkeHLfTK3kbob8l_d" version="13.10.0" type="github">
+  <diagram id="BbxMTAofdHPQCKb9HpOu" name="Page-1">
+    <mxGraphModel dx="868" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-1" target="mp47X3nm8VkwIO8UkAb1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="173.5" y="10" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-2" target="mp47X3nm8VkwIO8UkAb1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-2" value="Data Luas Hutan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-4" target="mp47X3nm8VkwIO8UkAb1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-4" target="mp47X3nm8VkwIO8UkAb1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-4" target="mp47X3nm8VkwIO8UkAb1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-4" value="Download Data di website BPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-5" target="mp47X3nm8VkwIO8UkAb1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-5" value="Data Populasi Penduduk DIY" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-6" target="mp47X3nm8VkwIO8UkAb1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-6" value="Data Produksi &lt;br&gt;Kelapa DIY" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-7" target="mp47X3nm8VkwIO8UkAb1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-7" value="Membuka QGIS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-8" target="mp47X3nm8VkwIO8UkAb1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-8" value="Pilih Plugins - Lalu Manage Plugins- Cari Cartogram3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-9" target="mp47X3nm8VkwIO8UkAb1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-9" value="Setelah Install Plugin masukkan data yang sudah didownload dan gabungkan (join) dengan data spasial" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-10" target="mp47X3nm8VkwIO8UkAb1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-10" value="Open spreadsheet layer&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-11" target="mp47X3nm8VkwIO8UkAb1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-11" value="Klik Kanan layer - pilih join- pilih layer identifier - Pilih field yang akan digabungkan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-12" target="mp47X3nm8VkwIO8UkAb1-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-12" value="Klik pada Vector - Cartogram3 - lalu pilih layer yang akan dibuat dan pilih field nya lalu tunggu hingga selesai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-13" target="mp47X3nm8VkwIO8UkAb1-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="460" />
+              <mxPoint x="640" y="358" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-13" target="mp47X3nm8VkwIO8UkAb1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-13" target="mp47X3nm8VkwIO8UkAb1-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="460" />
+              <mxPoint x="640" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-13" value="Layouting Peta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-14" value="Peta Kartogram Produksi &lt;br&gt;Kelapa DIY" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mp47X3nm8VkwIO8UkAb1-16" target="mp47X3nm8VkwIO8UkAb1-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-16" value="Peta Kartogram Populasi Penduduk DIY" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-17" value="Peta Kartogram&lt;br&gt;&amp;nbsp;Luas Hutan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp47X3nm8VkwIO8UkAb1-18" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="430" width="105" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
