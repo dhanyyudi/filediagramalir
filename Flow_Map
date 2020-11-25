@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T13:12:24.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="se6Zs0WxSnl-o3mWJ6dd" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T13:13:22.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="kX8zKGoCXJs2uVH0Z-uJ" version="13.10.0" type="github">
   <diagram id="PNVRHlguwsuE_fNWeg3Y" name="Page-1">
     <mxGraphModel dx="1142" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,8 +74,17 @@
         <mxCell id="gk-ANmKMp57XELRmgK6o-12" value="Clip dengan batas kabupaten lalu lakukan layouting peta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="560" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gk-ANmKMp57XELRmgK6o-13" value="Peta Arah Aliran &lt;br&gt;DAS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="gk-ANmKMp57XELRmgK6o-13" value="Peta Flow Map&lt;br&gt;Arah Aliran &lt;br&gt;DAS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-25" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="810" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-27" value="Peta Flow Map&lt;br&gt;&amp;nbsp;Rute &lt;br&gt;Pelayaran Pelni" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-28" value="Peta Flow Map&lt;br&gt;&amp;nbsp;Rute Penerbangan &lt;br&gt;Garuda" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
