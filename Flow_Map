@@ -1,17 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T13:05:43.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_EgZ4NnyMLgmNYNjon4k" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T13:11:21.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="YE4qxmGWQHK9p5g7dtw_" version="13.10.0" type="github">
   <diagram id="PNVRHlguwsuE_fNWeg3Y" name="Page-1">
-    <mxGraphModel dx="1142" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1142" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gk-ANmKMp57XELRmgK6o-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="30" width="80" height="60" as="geometry" />
+          <mxGeometry x="130" y="20" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gk-ANmKMp57XELRmgK6o-2" value="Data Rute Penerbangan &lt;br&gt;Garuda" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gk-ANmKMp57XELRmgK6o-3" value="Data Rute &lt;br&gt;Pelayaran Pelni" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-4" value="DEM SRTM USGS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-6" value="Batas Kabupaten" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-7" value="Membuka ArcGIS - Pilih Arctoolbox - lalu pilih spatial analyst tools - pilih Hydrology - FIll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-8" value="Setelah selesai Pada menu yang sama pilih Flow Direction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-9" value="Lalu pilih Data Management Tools - Raster - Resample" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-10" value="Konversi hasil raster resample ke point dengan cara Conversion Tools - From Raster - Raster to point" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-11" value="Simbolisasi titik dengan categorized grid_code lalu pilih dengan simbol anak panah dengan 8 arah mata angin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="430" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-12" value="Clip dengan batas kabupaten lalu lakukan layouting peta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="540" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-13" value="Peta Arah Aliran &lt;br&gt;DAS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
