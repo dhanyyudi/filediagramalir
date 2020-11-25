@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T13:15:07.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="T0y4hDpmap8NkdOZkXRo" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T13:19:18.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="yloL5tLBdSEH2mIm5_ub" version="13.10.0" type="github">
   <diagram id="PNVRHlguwsuE_fNWeg3Y" name="Page-1">
-    <mxGraphModel dx="457" dy="1339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="952" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,8 +24,14 @@
         <mxCell id="gk-ANmKMp57XELRmgK6o-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="-25" width="100" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk-ANmKMp57XELRmgK6o-2" target="gk-ANmKMp57XELRmgK6o-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gk-ANmKMp57XELRmgK6o-2" value="Data Rute Penerbangan &lt;br&gt;Garuda" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk-ANmKMp57XELRmgK6o-3" target="gk-ANmKMp57XELRmgK6o-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gk-ANmKMp57XELRmgK6o-3" value="Data Rute &lt;br&gt;Pelayaran Pelni" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
@@ -85,20 +91,80 @@
         <mxCell id="gk-ANmKMp57XELRmgK6o-12" value="Clip dengan batas kabupaten lalu lakukan layouting peta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="560" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gk-ANmKMp57XELRmgK6o-13" target="gk-ANmKMp57XELRmgK6o-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="770" />
+              <mxPoint x="330" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gk-ANmKMp57XELRmgK6o-13" value="Peta Flow Map&lt;br&gt;Arah Aliran &lt;br&gt;DAS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gk-ANmKMp57XELRmgK6o-25" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="810" width="100" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk-ANmKMp57XELRmgK6o-27" target="gk-ANmKMp57XELRmgK6o-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gk-ANmKMp57XELRmgK6o-27" value="Peta Flow Map&lt;br&gt;&amp;nbsp;Rute &lt;br&gt;Pelayaran Pelni" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gk-ANmKMp57XELRmgK6o-28" target="gk-ANmKMp57XELRmgK6o-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gk-ANmKMp57XELRmgK6o-28" value="Peta Flow Map&lt;br&gt;&amp;nbsp;Rute Penerbangan &lt;br&gt;Garuda" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gk-ANmKMp57XELRmgK6o-31" value="Membuka ArcMap lalu memlilih&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="230" width="120" height="80" as="geometry" />
+        <mxCell id="gk-ANmKMp57XELRmgK6o-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk-ANmKMp57XELRmgK6o-31" target="gk-ANmKMp57XELRmgK6o-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-31" value="Membuka ArcMap lalu memlilih add data XY untuk menambahkan letak Bandara/Pelabuhan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk-ANmKMp57XELRmgK6o-32" target="gk-ANmKMp57XELRmgK6o-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-32" value="Pilih File - Add XY data - Kolom X diisi Longitude - Kolom Y diisi Latitude&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk-ANmKMp57XELRmgK6o-33" target="gk-ANmKMp57XELRmgK6o-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-33" value="Add data rute Pelayaran/&lt;br&gt;Penerbangan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk-ANmKMp57XELRmgK6o-34" target="gk-ANmKMp57XELRmgK6o-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-34" value="Klik Arctoolbox - Data Management Tools - Features - XY to Line" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk-ANmKMp57XELRmgK6o-35" target="gk-ANmKMp57XELRmgK6o-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-35" value="Masukkan data tabel dan kolom start serta end&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk-ANmKMp57XELRmgK6o-36" target="gk-ANmKMp57XELRmgK6o-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="660" />
+              <mxPoint x="330" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk-ANmKMp57XELRmgK6o-36" target="gk-ANmKMp57XELRmgK6o-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="660" />
+              <mxPoint x="120" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-36" value="Layouting peta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="570" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
