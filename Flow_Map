@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T13:13:38.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="uetZQmXsMGP2Ri-5i62o" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-25T13:15:07.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="T0y4hDpmap8NkdOZkXRo" version="13.10.0" type="github">
   <diagram id="PNVRHlguwsuE_fNWeg3Y" name="Page-1">
-    <mxGraphModel dx="1142" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="457" dy="1339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,12 @@
           <mxGeometry x="330" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gk-ANmKMp57XELRmgK6o-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk-ANmKMp57XELRmgK6o-6" target="gk-ANmKMp57XELRmgK6o-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="100" />
+              <mxPoint x="470" y="40" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gk-ANmKMp57XELRmgK6o-6" value="Batas Kabupaten" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="70" width="120" height="60" as="geometry" />
@@ -91,6 +96,9 @@
         </mxCell>
         <mxCell id="gk-ANmKMp57XELRmgK6o-28" value="Peta Flow Map&lt;br&gt;&amp;nbsp;Rute Penerbangan &lt;br&gt;Garuda" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk-ANmKMp57XELRmgK6o-31" value="Membuka ArcMap lalu memlilih&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
