@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T09:42:02.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="kiqqXi7Cls6SJofBJpJe" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T09:50:53.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="zJtSVLhRNMzwQr3UcGQd" version="13.10.2" type="github">
   <diagram id="tpQbjlitr_NrOhHFOQ_t" name="Page-1">
     <mxGraphModel dx="1049" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,6 +58,9 @@
         <mxCell id="DjFQLwU4S3mI87osWO5j-14" value="Import - Spectral Library -&amp;nbsp; igcp_1.sli -&amp;nbsp; KAOLINITE_KL500 - Open" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="166" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-15" target="DjFQLwU4S3mI87osWO5j-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DjFQLwU4S3mI87osWO5j-15" value="Pilih Continuum Removed pada sumbu Y lalu Bandingkan hasil yang diperoleh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="166" y="600" width="120" height="80" as="geometry" />
         </mxCell>
@@ -70,8 +73,31 @@
         <mxCell id="DjFQLwU4S3mI87osWO5j-18" value="Klik kanan ROI lalu pilih Statistic All ROI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="406.8333333333335" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DjFQLwU4S3mI87osWO5j-19" value="Hasil yang diperoleh dapat digunakan untuk melakukan identifikasi mineral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-20" value="Klik kanan pada CupriteReflectance, kemudian pilih Profiles - Spectral Profiles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="290" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-21" value="Pilih warna ROI merah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="390" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-22" value=" Klik kanan di jendela Spectral Profile dan pilih RGB Bars" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="490" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-23" target="DjFQLwU4S3mI87osWO5j-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-23" value="  Setiap band dan panjang gelombang yang diperoleh dan cocokkan dengan band yang ditampilkan di RGB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="580" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-24" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359.5" y="730" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
