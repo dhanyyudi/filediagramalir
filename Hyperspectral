@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T09:29:35.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.2" etag="sgoXt2wn-MksYh_EE6F_" type="github"><diagram id="tpQbjlitr_NrOhHFOQ_t">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-26T09:33:11.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="JBTWNQKs0-ERV09iIke8" version="13.10.2" type="github">
+  <diagram id="tpQbjlitr_NrOhHFOQ_t" name="Page-1">
+    <mxGraphModel dx="719" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DjFQLwU4S3mI87osWO5j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DjFQLwU4S3mI87osWO5j-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DjFQLwU4S3mI87osWO5j-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407" y="170" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="407" y="180" />
+              <mxPoint x="596" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-9" target="DjFQLwU4S3mI87osWO5j-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407" y="170" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="407" y="160" />
+              <mxPoint x="407" y="180" />
+              <mxPoint x="226" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-1" target="DjFQLwU4S3mI87osWO5j-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363.5" y="10" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-2" value="Membandingkan Nilai Spektral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-3" value="Ekstraksi Nilai Spektral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-4" value="Diskriminasi Mineral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-9" value="CupriteReflectance&lt;br&gt;.dat." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="100" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
