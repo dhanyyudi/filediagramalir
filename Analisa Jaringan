@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T23:52:23.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.3" etag="NU6jQs8Na3xBnsdbdLoF" type="github"><diagram id="DjKemZNEhdNtvcjpsIJ8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-26T23:57:22.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="RsMAYYHLeI_MTPLAUHiZ" version="13.10.3" type="github">
+  <diagram id="DjKemZNEhdNtvcjpsIJ8" name="Page-1">
+    <mxGraphModel dx="1259" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cJgtJWGaGX7k739kIrQZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJgtJWGaGX7k739kIrQZ-1" target="cJgtJWGaGX7k739kIrQZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgtJWGaGX7k739kIrQZ-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="10" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgtJWGaGX7k739kIrQZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.58;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cJgtJWGaGX7k739kIrQZ-2" target="cJgtJWGaGX7k739kIrQZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgtJWGaGX7k739kIrQZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJgtJWGaGX7k739kIrQZ-2" target="cJgtJWGaGX7k739kIrQZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgtJWGaGX7k739kIrQZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJgtJWGaGX7k739kIrQZ-2" target="cJgtJWGaGX7k739kIrQZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgtJWGaGX7k739kIrQZ-2" value="Sleman Dataset" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgtJWGaGX7k739kIrQZ-3" value="Fasilitas Umum" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgtJWGaGX7k739kIrQZ-4" value="Jaringan Jalan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgtJWGaGX7k739kIrQZ-5" value="KRB Merapi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgtJWGaGX7k739kIrQZ-10" value="Analisa Jaringan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgtJWGaGX7k739kIrQZ-11" value="Fasilitas Pendidikan terdekat ke Terminal (Maks 5km)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="148.5" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgtJWGaGX7k739kIrQZ-12" value="Toko Fotokopi Terdekat tiap fasilitas pendidikan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290.5" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgtJWGaGX7k739kIrQZ-13" value="Fasilitas Kesehatan Rujukan Terdekat dari KRB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJgtJWGaGX7k739kIrQZ-14" value="Rute Evakuasi KRB ke Fasilitas Kesehatan Rujukan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
