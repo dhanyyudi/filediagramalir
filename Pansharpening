@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T09:20:45.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.2" etag="m56fGHpw_7VqARrK94lr" type="github"><diagram id="JM_8SsBhAnzL7cUxnfDm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-26T09:28:46.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="0n-5DQF_GNtqEfmn6JpA" version="13.10.2" type="github">
+  <diagram id="JM_8SsBhAnzL7cUxnfDm" name="Page-1">
+    <mxGraphModel dx="868" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.476;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UpF__YjAbw9HDhNW-fsl-1" target="UpF__YjAbw9HDhNW-fsl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="30" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.015;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UpF__YjAbw9HDhNW-fsl-2" target="UpF__YjAbw9HDhNW-fsl-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="430" />
+              <mxPoint x="300" y="388" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-2" value="Citra Multispektral" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpF__YjAbw9HDhNW-fsl-3" target="UpF__YjAbw9HDhNW-fsl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-3" value="Membuka aplikasi OrthoEngine di PCI Geomatica 2015" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="105" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpF__YjAbw9HDhNW-fsl-4" target="UpF__YjAbw9HDhNW-fsl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-4" value="Membuat Project Baru dan Mendefinisikan sistem koordinat input dan outputnya" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="105" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.083;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UpF__YjAbw9HDhNW-fsl-5" target="UpF__YjAbw9HDhNW-fsl-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="375" />
+              <mxPoint x="160" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpF__YjAbw9HDhNW-fsl-5" target="UpF__YjAbw9HDhNW-fsl-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="167" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="375" />
+              <mxPoint x="160" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-5" value="Klik Tools - Merge/Pansharp Multispectral Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="330" width="105" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpF__YjAbw9HDhNW-fsl-6" target="UpF__YjAbw9HDhNW-fsl-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="335" />
+              <mxPoint x="300" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-6" value="Citra Pankromatik" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.437;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UpF__YjAbw9HDhNW-fsl-7" target="UpF__YjAbw9HDhNW-fsl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-7" value="Klik Pansharp dan tunggu hasil pemrosesan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="105" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpF__YjAbw9HDhNW-fsl-8" target="UpF__YjAbw9HDhNW-fsl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-8" value="Membuka Focus di PCI Geomatica lalu open file hasil output dan cek ukuran piksel di Tools - Reprojection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="195" width="105" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UpF__YjAbw9HDhNW-fsl-9" target="UpF__YjAbw9HDhNW-fsl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-9" value="Citra Hasil Pansharpening" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UpF__YjAbw9HDhNW-fsl-10" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="95" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
