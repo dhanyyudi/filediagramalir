@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T09:39:56.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="1fOjmEBxQEN0MAHYbZto" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T09:42:02.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="kiqqXi7Cls6SJofBJpJe" version="13.10.2" type="github">
   <diagram id="tpQbjlitr_NrOhHFOQ_t" name="Page-1">
-    <mxGraphModel dx="719" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1049" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,6 +63,15 @@
         </mxCell>
         <mxCell id="DjFQLwU4S3mI87osWO5j-16" value="Klik ROI lalu open file&amp;nbsp;CupriteMineralROI&lt;br&gt;s.xml." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-17" value="Klik kanan pada salah satu ROI lalu pilih statistic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-18" value="Klik kanan ROI lalu pilih Statistic All ROI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-19" value="Hasil yang diperoleh dapat digunakan untuk melakukan identifikasi mineral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
