@@ -1,15 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T09:50:53.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="zJtSVLhRNMzwQr3UcGQd" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T14:07:26.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ZlyGHzlZWko_Topz1prO" version="13.10.3" type="github">
   <diagram id="tpQbjlitr_NrOhHFOQ_t" name="Page-1">
-    <mxGraphModel dx="1049" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DjFQLwU4S3mI87osWO5j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DjFQLwU4S3mI87osWO5j-3">
+        <mxCell id="DjFQLwU4S3mI87osWO5j-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="DjFQLwU4S3mI87osWO5j-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="407" y="170" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DjFQLwU4S3mI87osWO5j-4">
+        <mxCell id="DjFQLwU4S3mI87osWO5j-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="DjFQLwU4S3mI87osWO5j-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="407" y="170" as="sourcePoint" />
             <Array as="points">
@@ -18,7 +18,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-9" target="DjFQLwU4S3mI87osWO5j-2">
+        <mxCell id="DjFQLwU4S3mI87osWO5j-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DjFQLwU4S3mI87osWO5j-9" target="DjFQLwU4S3mI87osWO5j-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="407" y="170" as="sourcePoint" />
             <Array as="points">
@@ -28,75 +28,114 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-1" target="DjFQLwU4S3mI87osWO5j-9">
+        <mxCell id="DjFQLwU4S3mI87osWO5j-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DjFQLwU4S3mI87osWO5j-1" target="DjFQLwU4S3mI87osWO5j-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DjFQLwU4S3mI87osWO5j-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="363.5" y="10" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-2" value="Membandingkan Nilai Spektral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="166" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-3" value="Ekstraksi Nilai Spektral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-4" value="Diskriminasi Mineral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="536" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-9" value="CupriteReflectance&lt;br&gt;.dat." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="341" y="100" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-11" value="Klik kanan - Change RGB Bands - R : 183, G : 193, B : 207" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="166" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-12" value="Klik kanan pada CupriteReflectance - pilih Profiles - Spectral Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="166" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-13" value="Remove lalu cari kursor di koordinat 324,444&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="166" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-14" value="Import - Spectral Library -&amp;nbsp; igcp_1.sli -&amp;nbsp; KAOLINITE_KL500 - Open" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="166" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-15" target="DjFQLwU4S3mI87osWO5j-24">
+        <mxCell id="7DW0vK7ckl8RQsLBHrIY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-2" target="DjFQLwU4S3mI87osWO5j-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-15" value="Pilih Continuum Removed pada sumbu Y lalu Bandingkan hasil yang diperoleh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DjFQLwU4S3mI87osWO5j-2" value="Membandingkan Nilai Spektral" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="166" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DW0vK7ckl8RQsLBHrIY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-3" target="DjFQLwU4S3mI87osWO5j-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-3" value="Ekstraksi Nilai Spektral" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="347" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DW0vK7ckl8RQsLBHrIY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-4" target="DjFQLwU4S3mI87osWO5j-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-4" value="Diskriminasi Mineral" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="536" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-9" value="CupriteReflectance&lt;br&gt;.dat." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="341" y="100" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DW0vK7ckl8RQsLBHrIY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-11" target="DjFQLwU4S3mI87osWO5j-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-11" value="Klik kanan - Change RGB Bands - R : 183, G : 193, B : 207" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="166" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DW0vK7ckl8RQsLBHrIY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-12" target="DjFQLwU4S3mI87osWO5j-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-12" value="Klik kanan pada CupriteReflectance - pilih Profiles - Spectral Profile" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="166" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DW0vK7ckl8RQsLBHrIY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-13" target="DjFQLwU4S3mI87osWO5j-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-13" value="Remove lalu cari kursor di koordinat 324,444&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="166" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7DW0vK7ckl8RQsLBHrIY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-14" target="DjFQLwU4S3mI87osWO5j-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-14" value="Import - Spectral Library -&amp;nbsp; igcp_1.sli -&amp;nbsp; KAOLINITE_KL500 - Open" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="166" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DjFQLwU4S3mI87osWO5j-15" target="DjFQLwU4S3mI87osWO5j-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-15" value="Pilih Continuum Removed pada sumbu Y lalu Bandingkan hasil yang diperoleh" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="166" y="600" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-16" value="Klik ROI lalu open file&amp;nbsp;CupriteMineralROI&lt;br&gt;s.xml." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7DW0vK7ckl8RQsLBHrIY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-16" target="DjFQLwU4S3mI87osWO5j-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-16" value="Klik ROI lalu open file&amp;nbsp;CupriteMineralROI&lt;br&gt;s.xml." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="347" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-17" value="Klik kanan pada salah satu ROI lalu pilih statistic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7DW0vK7ckl8RQsLBHrIY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-17" target="DjFQLwU4S3mI87osWO5j-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-17" value="Klik kanan pada salah satu ROI lalu pilih statistic" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="347" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-18" value="Klik kanan ROI lalu pilih Statistic All ROI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7DW0vK7ckl8RQsLBHrIY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-18" target="DjFQLwU4S3mI87osWO5j-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-18" value="Klik kanan ROI lalu pilih Statistic All ROI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="347" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-19">
+        <mxCell id="DjFQLwU4S3mI87osWO5j-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DjFQLwU4S3mI87osWO5j-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="406.8333333333335" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-19" value="Hasil yang diperoleh dapat digunakan untuk melakukan identifikasi mineral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DjFQLwU4S3mI87osWO5j-19" value="Hasil yang diperoleh dapat digunakan untuk melakukan identifikasi mineral" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="347" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-20" value="Klik kanan pada CupriteReflectance, kemudian pilih Profiles - Spectral Profiles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="536" y="290" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-21" value="Pilih warna ROI merah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="536" y="390" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-22" value=" Klik kanan di jendela Spectral Profile dan pilih RGB Bars" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="536" y="490" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-23" target="DjFQLwU4S3mI87osWO5j-24">
+        <mxCell id="7DW0vK7ckl8RQsLBHrIY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-20" target="DjFQLwU4S3mI87osWO5j-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-23" value="  Setiap band dan panjang gelombang yang diperoleh dan cocokkan dengan band yang ditampilkan di RGB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DjFQLwU4S3mI87osWO5j-20" value="Klik kanan pada CupriteReflectance, kemudian pilih Profiles - Spectral Profiles" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="536" y="290" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7DW0vK7ckl8RQsLBHrIY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-21" target="DjFQLwU4S3mI87osWO5j-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-21" value="Pilih warna ROI merah" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="536" y="390" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7DW0vK7ckl8RQsLBHrIY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DjFQLwU4S3mI87osWO5j-22" target="DjFQLwU4S3mI87osWO5j-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-22" value=" Klik kanan di jendela Spectral Profile dan pilih RGB Bars" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="536" y="490" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DjFQLwU4S3mI87osWO5j-23" target="DjFQLwU4S3mI87osWO5j-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjFQLwU4S3mI87osWO5j-23" value="  Setiap band dan panjang gelombang yang diperoleh dan cocokkan dengan band yang ditampilkan di RGB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="536" y="580" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DjFQLwU4S3mI87osWO5j-24" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DjFQLwU4S3mI87osWO5j-24" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="359.5" y="730" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
