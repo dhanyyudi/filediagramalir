@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T00:41:20.767Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Mj1yGoOjis1OJ2kr7vRO" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T00:44:51.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="jkjuuCZgWVDGaDqg4bKe" version="13.10.4" type="github">
   <diagram id="DjKemZNEhdNtvcjpsIJ8" name="Page-1">
     <mxGraphModel dx="1259" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="413" y="330" />
-              <mxPoint x="618" y="330" />
+              <mxPoint x="680" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -78,7 +78,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="413" y="330" />
-              <mxPoint x="485" y="330" />
+              <mxPoint x="520" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -91,14 +91,17 @@
         <mxCell id="cJgtJWGaGX7k739kIrQZ-11" value="Fasilitas Pendidikan terdekat ke Terminal (Maks 5km)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJgtJWGaGX7k739kIrQZ-12" target="hBja6GVPb4lpta9B1QEM-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cJgtJWGaGX7k739kIrQZ-12" value="Toko Fotokopi Terdekat tiap fasilitas pendidikan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290.5" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cJgtJWGaGX7k739kIrQZ-13" value="Fasilitas Kesehatan Rujukan Terdekat dari KRB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="425" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cJgtJWGaGX7k739kIrQZ-14" value="Rute Evakuasi KRB ke Fasilitas Kesehatan Rujukan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="557.5" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-1" target="hBja6GVPb4lpta9B1QEM-2">
           <mxGeometry relative="1" as="geometry" />
@@ -138,20 +141,55 @@
         <mxCell id="hBja6GVPb4lpta9B1QEM-5" value="Layer &lt;br&gt;Baru Hasil Pendidikan Terdekat dari Terminal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="94.25" y="890" width="151.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-6" target="hBja6GVPb4lpta9B1QEM-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="1100" />
+              <mxPoint x="413" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-6" value="Membuat Web App Builder dengan ArcGIS Builder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-16" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365.5" y="1130" width="95" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-17" target="hBja6GVPb4lpta9B1QEM-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-17" value="Letak Toko&lt;br&gt;&amp;nbsp;Fotokopi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="290.5" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-18" target="hBja6GVPb4lpta9B1QEM-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-18" value="Klik Analysis - lalu pilih Find Locations - &lt;b&gt;Derive New Locations&lt;/b&gt; - layer fasum - where fungsi is Pendidikan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290.5" y="510" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-20" target="hBja6GVPb4lpta9B1QEM-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-20" value="Layer &lt;br&gt;Baru &lt;br&gt;Fasilitas Pendidikan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="274.75" y="630" width="151.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-21" target="hBja6GVPb4lpta9B1QEM-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-21" value="Klik Analysis - lalu pilih Find Locations - &lt;b&gt;Choose Best Facilities&lt;/b&gt;- Allocate to Existing Facilities - memilih Driving Time - Demand to Facility - Toko fotokopi sebagai facilities layer dan Fasilitas Pendidikan sebagai Demand Locations layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290.5" y="720" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-22" target="hBja6GVPb4lpta9B1QEM-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-22" value="Layer &lt;br&gt;Baru Hasil Fotokopi fasilitas terbaik dan terdekat dari Fasilitas Pendidikan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="274.75" y="920" width="151.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-23" target="hBja6GVPb4lpta9B1QEM-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-23" value="Membuat Web App Builder dengan ArcGIS Builder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290.5" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
