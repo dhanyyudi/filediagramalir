@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T00:38:46.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="BwoRT52sQOntZEenY502" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T00:39:04.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="J0s4DEslnlLezauhMmPl" version="13.10.4" type="github">
   <diagram id="DjKemZNEhdNtvcjpsIJ8" name="Page-1">
     <mxGraphModel dx="1259" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,6 +85,9 @@
         <mxCell id="cJgtJWGaGX7k739kIrQZ-10" value="Analisa Jaringan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="353" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJgtJWGaGX7k739kIrQZ-11" target="hBja6GVPb4lpta9B1QEM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cJgtJWGaGX7k739kIrQZ-11" value="Fasilitas Pendidikan terdekat ke Terminal (Maks 5km)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="148.5" y="350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -97,17 +100,32 @@
         <mxCell id="cJgtJWGaGX7k739kIrQZ-14" value="Rute Evakuasi KRB ke Fasilitas Kesehatan Rujukan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="557.5" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-1" target="hBja6GVPb4lpta9B1QEM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-1" value="Klik Analysis - lalu pilih Find Locations - Derive New Locations - layer fasum - where fungsi is Terminal&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="148.5" y="430" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-2" target="hBja6GVPb4lpta9B1QEM-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-2" value="Klik Analysis - lalu pilih Find Locations - Derive New Locations - layer fasum - where fungsi is Pendidikan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="148.5" y="540" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-3" target="hBja6GVPb4lpta9B1QEM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-3" value="Layer &lt;br&gt;Baru Terminal dan Fasilitas Pendidikan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="132.75" y="660" width="151.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-4" target="hBja6GVPb4lpta9B1QEM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-4" value="Klik Analysis - lalu pilih use proximity - pilih find nearest - lalu identifikasi dengan jarak maksimal 5 km fasilitas pendidikan terdekat dicari dari Terminal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="148.5" y="740" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-5" target="hBja6GVPb4lpta9B1QEM-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-5" value="Layer &lt;br&gt;Baru Hasil Pendidikan Terdekat dari Terminal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="132.75" y="890" width="151.5" height="60" as="geometry" />
