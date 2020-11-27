@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T00:47:45.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="9mOHckAqGn_6x5Smh_tU" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T00:50:15.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="PjUjIExSejB-rAsrSMjF" version="13.10.4" type="github">
   <diagram id="DjKemZNEhdNtvcjpsIJ8" name="Page-1">
     <mxGraphModel dx="1259" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,6 +103,9 @@
         <mxCell id="cJgtJWGaGX7k739kIrQZ-13" value="Fasilitas Kesehatan Rujukan Terdekat dari KRB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.427;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cJgtJWGaGX7k739kIrQZ-14" target="hBja6GVPb4lpta9B1QEM-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cJgtJWGaGX7k739kIrQZ-14" value="Rute Evakuasi KRB ke Fasilitas Kesehatan Rujukan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -147,8 +150,8 @@
         <mxCell id="hBja6GVPb4lpta9B1QEM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-6" target="hBja6GVPb4lpta9B1QEM-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="170" y="1110" />
-              <mxPoint x="413" y="1110" />
+              <mxPoint x="170" y="1130" />
+              <mxPoint x="413" y="1130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -156,7 +159,7 @@
           <mxGeometry x="110" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-16" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365.5" y="1140" width="95" height="60" as="geometry" />
+          <mxGeometry x="365.5" y="1150" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-17" target="hBja6GVPb4lpta9B1QEM-18">
           <mxGeometry relative="1" as="geometry" />
@@ -189,7 +192,12 @@
           <mxGeometry x="274.75" y="920" width="151.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-23" target="hBja6GVPb4lpta9B1QEM-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="1130" />
+              <mxPoint x="413" y="1130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-23" value="Membuat Web App Builder dengan ArcGIS Builder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290.5" y="1020" width="120" height="60" as="geometry" />
@@ -221,13 +229,46 @@
         <mxCell id="hBja6GVPb4lpta9B1QEM-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-36" target="hBja6GVPb4lpta9B1QEM-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="521" y="1110" />
-              <mxPoint x="413" y="1110" />
+              <mxPoint x="521" y="1130" />
+              <mxPoint x="413" y="1130" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-36" value="Membuat Web App Builder dengan ArcGIS Builder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460.5" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-44" target="hBja6GVPb4lpta9B1QEM-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-44" value="Klik Analysis - lalu pilih Find Locations - &lt;b&gt;Derive New Locations&lt;/b&gt; - layer fasum - where fungsi is Kesehatan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625.75" y="440" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-46" target="hBja6GVPb4lpta9B1QEM-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-46" value="Layer &lt;br&gt;Baru &lt;br&gt;Kesehatan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="555" width="151.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-48" target="hBja6GVPb4lpta9B1QEM-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-48" value="Klik Analysis - lalu pilih use proximity - pilih &lt;b&gt;find nearest&lt;/b&gt; - lalu identifikasi dengan jarak maksimal 5 km fasilitas kesehatan terdekat dicari dari layer baru kesehatan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625.75" y="650" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-49" value="Layer &lt;br&gt;Baru Hasil Fasilitas Kesehatan terdekat dari lokasi KRB" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="810" width="151.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-52" target="hBja6GVPb4lpta9B1QEM-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-52" value="Klik Analysis - lalu pilih use proximity - pilih &lt;b&gt;plan routes&lt;/b&gt; - lalu identifikasi jumlah kendaraan dan titik awal evakuasi&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625.75" y="890" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-53" target="hBja6GVPb4lpta9B1QEM-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hBja6GVPb4lpta9B1QEM-53" value="Layer &lt;br&gt;Baru Rute Evakuasi dan Tempat tujuan evakuasi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1050" width="151.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
