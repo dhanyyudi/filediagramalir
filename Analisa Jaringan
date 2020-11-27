@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T00:57:10.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="5BM6c0yEV-8XwlEYHJRJ" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T00:58:36.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="SZ01vyPhFHYKFWDit5MD" version="13.10.4" type="github">
   <diagram id="DjKemZNEhdNtvcjpsIJ8" name="Page-1">
-    <mxGraphModel dx="420" dy="199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
           <mxGeometry x="110" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-16" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365.5" y="1150" width="95" height="60" as="geometry" />
+          <mxGeometry x="365.5" y="1180" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hBja6GVPb4lpta9B1QEM-17" target="hBja6GVPb4lpta9B1QEM-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -187,11 +187,11 @@
         <mxCell id="hBja6GVPb4lpta9B1QEM-52" value="Klik Analysis - lalu pilih use proximity - pilih &lt;b&gt;plan routes&lt;/b&gt; - lalu identifikasi jumlah kendaraan dan titik awal evakuasi&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="625.75" y="890" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="hBja6GVPb4lpta9B1QEM-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hBja6GVPb4lpta9B1QEM-53" target="hBja6GVPb4lpta9B1QEM-16" edge="1">
+        <mxCell id="1pzCtAJRSJiMU-UOXtMV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hBja6GVPb4lpta9B1QEM-53" target="1pzCtAJRSJiMU-UOXtMV-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-53" value="Layer &lt;br&gt;Baru Rute Evakuasi dan Tempat tujuan evakuasi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="1050" width="151.5" height="60" as="geometry" />
+          <mxGeometry x="610" y="1040" width="151.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hBja6GVPb4lpta9B1QEM-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hBja6GVPb4lpta9B1QEM-70" target="hBja6GVPb4lpta9B1QEM-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -323,6 +323,17 @@
         </mxCell>
         <mxCell id="1pzCtAJRSJiMU-UOXtMV-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="410.5" y="310" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1pzCtAJRSJiMU-UOXtMV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1pzCtAJRSJiMU-UOXtMV-2" target="hBja6GVPb4lpta9B1QEM-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="626" y="1130" />
+              <mxPoint x="413" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1pzCtAJRSJiMU-UOXtMV-2" value="Membuat Web App Builder dengan ArcGIS Builder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625.75" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
