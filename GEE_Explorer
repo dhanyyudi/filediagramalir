@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T17:40:12.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.5" etag="7ic_5Ng2DwMl8Bo2C819" type="github"><diagram id="hF1UFaTJp03Mx4Hj6xUp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-02T17:58:34.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6Wn3HtiMUAXJmxoJ_-Td" version="13.10.5" type="github">
+  <diagram id="hF1UFaTJp03Mx4Hj6xUp" name="Page-1">
+    <mxGraphModel dx="1019" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="10" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-2" value="Membuka&amp;nbsp;https://&lt;br&gt;explorer.earthengine&lt;br&gt;.google.com/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-3" value="Mengarahkan ke lokasi area yang akan dilakukan pengolahan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-4" value="Pilih Data Catalog - lalu cari tags &quot;toa&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-5" value="Pilih salah satu citra yang akan dibuka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-6" value="Pilih salah satu data lalu open in workspace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-7" value="Atur visualisasi dan komposit band yang digunakan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-8" value="Menampilkan data dari Data Catalog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-9" value="Extract Mask and Apply Mask" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-10" value="Membuka citra di workspace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-11" value="Add computation - Apply Mask" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-12" value="Image - pilih citra yang akan dipotong" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-13" value="Mask - Drawn a rectangle - gambarkan sesuai area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-14" value="Untuk menyimpan hasil mask pilih add computation - extract mask - mask bisa digunakan untuk pemotongan selanjutnya" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="610" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
