@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T18:22:32.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="I9maQz-OJ1LK54LynaTh" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T19:34:25.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="rB__C7Y8eLHT-UlIvcy_" version="13.10.5" type="github">
   <diagram id="hF1UFaTJp03Mx4Hj6xUp" name="Page-1">
-    <mxGraphModel dx="286" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,6 +87,33 @@
         </mxCell>
         <mxCell id="81aCQeN8DHqVwVW3e-P6-28" value="Hasil Hillshade" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-29" value="Klasifikasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-30" value="Perbesar ke area yang akan dilakukan klasifikasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-31" value="Tambahkan data TOA Reflectance dari Data Catalog dan gunakan sebagai input proses klasifikasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="410" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-32" value="Membuat ROI dengan Add data - Hand-drawn points and polygons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="530" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-33" value="Add Class untuk menambahkan kelas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="530" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-34" value="Membuat ROI di kanvas dengan acuan basemap satelite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="650" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-35" value="Membuat citra sebagai data input dan hasil ROI sebagai training" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="770" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-36" value="Analysis - Train a classifier - CART - Train Classifier and display results" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="880" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-37" value="Hasil klasifikasi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
