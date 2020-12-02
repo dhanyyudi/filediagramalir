@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T17:58:34.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6Wn3HtiMUAXJmxoJ_-Td" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T18:22:32.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="I9maQz-OJ1LK54LynaTh" version="13.10.5" type="github">
   <diagram id="hF1UFaTJp03Mx4Hj6xUp" name="Page-1">
-    <mxGraphModel dx="1019" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="286" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,48 @@
         </mxCell>
         <mxCell id="81aCQeN8DHqVwVW3e-P6-14" value="Untuk menyimpan hasil mask pilih add computation - extract mask - mask bisa digunakan untuk pemotongan selanjutnya" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="610" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-15" value="Expression" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-16" value="Menggunakan citra hasil pemotongan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-17" value="Add computation - Expression" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-18" value="Isikan formula NDVI pada kolom expression&amp;nbsp;&lt;br&gt;(img1[&quot;B5&quot;]-img1[&quot;B4&quot;])/(img1[&quot;B5&quot;]+img1[&quot;B4&quot;])" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="440" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-19" value="Isikan formula NDBI pada kolom expression&amp;nbsp;&lt;br&gt;(img1[&quot;B6&quot;]-img1[&quot;B5&quot;])/(img1[&quot;B6&quot;]+img1[&quot;B5&quot;])" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="440" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-20" value="Isikan formula NDWI pada kolom expression&amp;nbsp;&lt;br&gt;(img1[&quot;B3&quot;]-img1[&quot;B5&quot;])/(img1[&quot;B3&quot;]+img1[&quot;B5&quot;])" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="600" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-21" value="Terrain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-22" value="Mencari data SRTM Digital Elevation 30m dari Data Catalog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-23" value="Add Computation pilih Slope And Aspect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-24" value="Pilih SRTM sebagai data masukkan dan Visualization pilih satu band slope/aspect/hillshade&lt;br&gt;buka satu persatu secara terpisah" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="480" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-25" value="Add Computation pilih Hillshade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-26" value="Hasil Slope" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-27" value="Hasil Aspect" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81aCQeN8DHqVwVW3e-P6-28" value="Hasil Hillshade" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
