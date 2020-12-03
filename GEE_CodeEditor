@@ -1,41 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T20:10:00.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="y0C3MzV80oMl377hxO11" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T13:06:13.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="bwlqvvoKQM7Y8muHAzCn" version="13.10.6" type="github">
   <diagram id="Gy-DAHGZgojUGWYtHzYC" name="Page-1">
-    <mxGraphModel dx="1259" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2548" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wVsFzPj0DgiAvHIemG2t-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="30" width="90" height="60" as="geometry" />
+        <mxCell id="wzblBWonTuSA_MtBHGLR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wVsFzPj0DgiAvHIemG2t-1" target="wVsFzPj0DgiAvHIemG2t-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wVsFzPj0DgiAvHIemG2t-2" value="Membuka&amp;nbsp;https://code&lt;br&gt;.earthengine.google.&lt;br&gt;com/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="wVsFzPj0DgiAvHIemG2t-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="105" y="30" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wVsFzPj0DgiAvHIemG2t-3" value="Mengatur area boundary&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="wzblBWonTuSA_MtBHGLR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wVsFzPj0DgiAvHIemG2t-2" target="wVsFzPj0DgiAvHIemG2t-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wVsFzPj0DgiAvHIemG2t-4" value="Menuliskan script" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="wVsFzPj0DgiAvHIemG2t-2" value="Membuka&amp;nbsp;https://code&lt;br&gt;.earthengine.google.&lt;br&gt;com/" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wVsFzPj0DgiAvHIemG2t-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;var dataset = ee.ImageCollection(&#39;LANDSAT/LC08/C01/T1&#39;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; .filterBounds(geometry)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; .filterDate(&#39;2019-03-01&#39;, &#39;2019-03-31&#39;);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;print (dataset);&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="410" width="360" height="60" as="geometry" />
+        <mxCell id="wzblBWonTuSA_MtBHGLR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wVsFzPj0DgiAvHIemG2t-3" target="wzblBWonTuSA_MtBHGLR-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wVsFzPj0DgiAvHIemG2t-6" value="Run Script" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="wVsFzPj0DgiAvHIemG2t-3" value="Mengatur area boundary&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wVsFzPj0DgiAvHIemG2t-7" value="Memanggil Citra dan mengatur RGB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="wzblBWonTuSA_MtBHGLR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.498;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wVsFzPj0DgiAvHIemG2t-4" target="wVsFzPj0DgiAvHIemG2t-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wVsFzPj0DgiAvHIemG2t-8" value="Memanggil Citra dan mengatur RGB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="wVsFzPj0DgiAvHIemG2t-4" value="Menuliskan script" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wVsFzPj0DgiAvHIemG2t-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;var single = ee.Image(&#39;LANDSAT/LC08/C01/T1/LC08_120065_20190321&#39;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;var RGBTrue = single.select([&#39;B4&#39;, &#39;B3&#39;, &#39;B2&#39;]);&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="790" width="360" height="60" as="geometry" />
+        <mxCell id="wzblBWonTuSA_MtBHGLR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wVsFzPj0DgiAvHIemG2t-5" target="wVsFzPj0DgiAvHIemG2t-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wVsFzPj0DgiAvHIemG2t-10" value="Menampilkan citra di peta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="880" width="120" height="60" as="geometry" />
+        <mxCell id="wVsFzPj0DgiAvHIemG2t-5" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;var dataset = ee.ImageCollection(&#39;LANDSAT/LC08/C01/T1&#39;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; .filterBounds(geometry)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; .filterDate(&#39;2019-03-01&#39;, &#39;2019-03-31&#39;);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;print (dataset);&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="500" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wVsFzPj0DgiAvHIemG2t-11" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;var RGBparam = {min: 0, max: 30000,};&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Map.addLayer(RGBTrue, RGBparam, &#39;TRUE&#39;);&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="970" width="360" height="60" as="geometry" />
+        <mxCell id="wzblBWonTuSA_MtBHGLR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wVsFzPj0DgiAvHIemG2t-6" target="wzblBWonTuSA_MtBHGLR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wVsFzPj0DgiAvHIemG2t-6" value="Run Script" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzblBWonTuSA_MtBHGLR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wVsFzPj0DgiAvHIemG2t-7" target="wVsFzPj0DgiAvHIemG2t-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wVsFzPj0DgiAvHIemG2t-7" value="Memanggil Citra dan mengatur RGB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzblBWonTuSA_MtBHGLR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wVsFzPj0DgiAvHIemG2t-9" target="wVsFzPj0DgiAvHIemG2t-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wVsFzPj0DgiAvHIemG2t-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;var single = ee.Image(&#39;LANDSAT/LC08/C01/T1/LC08_120065_20190321&#39;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;var RGBTrue = single.select([&#39;B4&#39;, &#39;B3&#39;, &#39;B2&#39;]);&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="600" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzblBWonTuSA_MtBHGLR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.455;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wVsFzPj0DgiAvHIemG2t-10" target="wVsFzPj0DgiAvHIemG2t-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wVsFzPj0DgiAvHIemG2t-10" value="Menampilkan citra di peta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzblBWonTuSA_MtBHGLR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wVsFzPj0DgiAvHIemG2t-11" target="wzblBWonTuSA_MtBHGLR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wVsFzPj0DgiAvHIemG2t-11" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;var RGBparam = {min: 0, max: 30000,};&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Map.addLayer(RGBTrue, RGBparam, &#39;TRUE&#39;);&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="400" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzblBWonTuSA_MtBHGLR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.536;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wzblBWonTuSA_MtBHGLR-1" target="wVsFzPj0DgiAvHIemG2t-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzblBWonTuSA_MtBHGLR-1" value="Hasil Area &lt;br&gt;Boundary" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzblBWonTuSA_MtBHGLR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wzblBWonTuSA_MtBHGLR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="720.1428571428571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wzblBWonTuSA_MtBHGLR-2" value="Hasil ID Citra di &lt;br&gt;Console" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzblBWonTuSA_MtBHGLR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzblBWonTuSA_MtBHGLR-3" target="wzblBWonTuSA_MtBHGLR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzblBWonTuSA_MtBHGLR-3" value="CItra ditampilkan diatas basemap" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzblBWonTuSA_MtBHGLR-4" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="520" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
