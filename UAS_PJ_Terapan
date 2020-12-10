@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T11:30:27.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8xIiqkGMMjS8OQcZnZhL" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T12:56:21.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6Fmadk8AeEJ7bI5by1y6" version="14.0.0" type="github">
   <diagram id="FmNQdWEGrQ40UZMtoAaS" name="Page-1">
     <mxGraphModel dx="1019" dy="1697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,43 +13,43 @@
         <mxCell id="aeI-Ils_h3Kd4XfZYOPt-3" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Citra&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;“ref_20190904”&lt;br&gt;(&lt;i&gt;post-fire&lt;/i&gt;)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-1" value="Membuka Perangkat Lunak ENVI Standard dan input data reflektan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-1" value="Membuka Perangkat Lunak ENVI Standard dan input data reflektan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="-1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-2" value="Analisis NBR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-2" value="Analisis NBR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-3" value="Analisis NDVI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-3" value="Analisis NDVI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="-800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-4" value="Pilih menu band math pada toolbox&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-4" value="Pilih menu band math pada toolbox&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-5" value="Masukkan rumus&amp;nbsp;&lt;br&gt;(float(B5)-float(B4))&lt;br&gt;/(float(B5)+float(B4))" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-5" value="Masukkan rumus&amp;nbsp;&lt;br&gt;(float(B5)-float(B4))&lt;br&gt;/(float(B5)+float(B4))" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-6" value="Mendefinisikan,&amp;nbsp;&amp;nbsp;&lt;br&gt;B4 : Red&lt;br&gt;B5 : NIR&lt;br&gt;Pilih penyimpanan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-6" value="Mendefinisikan,&amp;nbsp;&amp;nbsp;&lt;br&gt;B4 : Red&lt;br&gt;B5 : NIR&lt;br&gt;Pilih penyimpanan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-7" value="&lt;font style=&quot;font-size: 13px&quot;&gt;NBR&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;“ref_20190515”&lt;br&gt;(&lt;i&gt;pre-fire&lt;/i&gt;)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-7" value="&lt;font style=&quot;font-size: 13px&quot;&gt;NBR&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;“ref_20190515”&lt;br&gt;(&lt;i&gt;pre-fire&lt;/i&gt;)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-8" value="&lt;font style=&quot;font-size: 13px&quot;&gt;NBR&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;“ref_20190904”&lt;br&gt;(&lt;i&gt;post-fire&lt;/i&gt;)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-8" value="&lt;font style=&quot;font-size: 13px&quot;&gt;NBR&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;“ref_20190904”&lt;br&gt;(&lt;i&gt;post-fire&lt;/i&gt;)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-9" value="Pilih menu band math pada toolbox&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-9" value="Pilih menu band math pada toolbox&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="-710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-10" value="Masukkan rumus&amp;nbsp;&lt;br&gt;(float(B5)-float(B6))&lt;br&gt;/(float(B5)+float(B6))" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-10" value="Masukkan rumus&amp;nbsp;&lt;br&gt;(float(B5)-float(B6))&lt;br&gt;/(float(B5)+float(B6))" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="-620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-11" value="Mendefinisikan,&amp;nbsp;&amp;nbsp;&lt;br&gt;B6 : SWIR 1&lt;br&gt;B5 : NIR&lt;br&gt;Pilih penyimpanan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-11" value="Mendefinisikan,&amp;nbsp;&amp;nbsp;&lt;br&gt;B6 : SWIR 1&lt;br&gt;B5 : NIR&lt;br&gt;Pilih penyimpanan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="-540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-12" value="&lt;font style=&quot;font-size: 13px&quot;&gt;NDVI&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;“ref_20190515”&lt;br&gt;(&lt;i&gt;pre-fire&lt;/i&gt;)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-12" value="&lt;font style=&quot;font-size: 13px&quot;&gt;NDVI&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;“ref_20190515”&lt;br&gt;(&lt;i&gt;pre-fire&lt;/i&gt;)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-13" value="&lt;font style=&quot;font-size: 13px&quot;&gt;NDVI&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;“ref_20190904”&lt;br&gt;(&lt;i&gt;post-fire&lt;/i&gt;)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="jCUoS-M5JbzVPNZdXQ-W-13" value="&lt;font style=&quot;font-size: 13px&quot;&gt;NDVI&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;“ref_20190904”&lt;br&gt;(&lt;i&gt;post-fire&lt;/i&gt;)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
