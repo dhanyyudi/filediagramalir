@@ -1,23 +1,167 @@
-<mxfile host="app.diagrams.net" modified="2021-01-30T17:06:20.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="f2e6nJjCXFZvSCxY6dNW" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-30T17:30:02.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="BN1a1pAd9IZ_1BqNzObL" version="14.2.9" type="github">
   <diagram id="1UNF9fWNB24Ryp18Mrfj" name="Page-1">
-    <mxGraphModel dx="1021" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-1" target="1lAOiJfTsq5zmyHEhFbW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1lAOiJfTsq5zmyHEhFbW-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="10" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-2" target="1lAOiJfTsq5zmyHEhFbW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-2" target="1lAOiJfTsq5zmyHEhFbW-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1lAOiJfTsq5zmyHEhFbW-2" value="Persiapan Survey" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-3" target="1lAOiJfTsq5zmyHEhFbW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1lAOiJfTsq5zmyHEhFbW-3" value="Perencanaan Jalur Survey" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="192" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1lAOiJfTsq5zmyHEhFbW-4" value="Persiapan Alat Survey" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="336" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1lAOiJfTsq5zmyHEhFbW-5" value="Konfigurasi Alat Survey" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="486" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-4" target="1lAOiJfTsq5zmyHEhFbW-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="280" />
+              <mxPoint x="400" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-4" target="1lAOiJfTsq5zmyHEhFbW-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="280" />
+              <mxPoint x="726" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-4" value="Persiapan dan Konfigurasi Alat Survey" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-9" target="1lAOiJfTsq5zmyHEhFbW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-9" value="Input data lokasi eksisting area pengerukan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-11" target="1lAOiJfTsq5zmyHEhFbW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-11" value="Perancangan pada software Hydropro/AutoCAD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-12" target="1lAOiJfTsq5zmyHEhFbW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-12" value="Konversi dan Pemberian Sistem Koordinat UTM 49 N&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-13" value="Output File format .gpx" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="402" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-18" target="1lAOiJfTsq5zmyHEhFbW-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-18" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;text-indent: -18.8667px ; line-height: 24px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Teledyne&amp;nbsp;&lt;/span&gt;&lt;span lang=&quot;IN&quot; style=&quot;text-indent: -18.8667px ; line-height: 24px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Odom&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: -18.8667px ; line-height: 24px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Echotrac CVM Dual Frequency&amp;nbsp;&lt;/span&gt;&lt;span lang=&quot;IN&quot; style=&quot;text-indent: -18.8667px ; line-height: 24px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Echosounder&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="332" y="400" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-21" target="1lAOiJfTsq5zmyHEhFbW-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-21" value="GPS Trimble" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="400" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-22" target="1lAOiJfTsq5zmyHEhFbW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-22" value="Garmin Echosounder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="295" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="728" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-23" value="Tranduser Odom Echotrac" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="666" y="400" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-24" target="1lAOiJfTsq5zmyHEhFbW-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559.8571428571428" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-24" value="Antenna GPS Garmin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="295" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-25" value="Tranduser Garmin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="666" y="295" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="500" />
+              <mxPoint x="560" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-27" value="Receiver GPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="514" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="500" />
+              <mxPoint x="560" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-28" target="1lAOiJfTsq5zmyHEhFbW-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-28" value="Aki" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="514" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
