@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-30T17:45:02.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="n3XwIM7XJHrrw1lpUR1_" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-30T17:52:02.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="F4zH3sPUIaBQUeU0fMyt" version="14.2.9" type="github">
   <diagram id="1UNF9fWNB24Ryp18Mrfj" name="Page-1">
     <mxGraphModel dx="1021" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,20 +218,59 @@
             <mxPoint x="330" y="800.3103448275863" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-56" target="1lAOiJfTsq5zmyHEhFbW-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1lAOiJfTsq5zmyHEhFbW-56" value="Perekaman Data Pasang Surut" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1lAOiJfTsq5zmyHEhFbW-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-57" target="1lAOiJfTsq5zmyHEhFbW-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-57" target="1lAOiJfTsq5zmyHEhFbW-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1lAOiJfTsq5zmyHEhFbW-57" value="Perekaman Data Kedalaman" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.579;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-58" target="1lAOiJfTsq5zmyHEhFbW-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1lAOiJfTsq5zmyHEhFbW-58" value="Perekaman Chart Pemeruman&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1lAOiJfTsq5zmyHEhFbW-66" value="Pengolahan Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="339" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-67" target="1lAOiJfTsq5zmyHEhFbW-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="940" />
+              <mxPoint x="399" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-67" value="Hasil dan Grafik Pasut (.xlsx)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="398.8571428571429" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-68" value="Exporting Data File (.csv)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="1lAOiJfTsq5zmyHEhFbW-69" target="1lAOiJfTsq5zmyHEhFbW-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="940" />
+              <mxPoint x="399" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lAOiJfTsq5zmyHEhFbW-69" value="File eChart Pemeruman" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
