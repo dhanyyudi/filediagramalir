@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T15:54:48.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="pxy3bFhpfQw49gL69KhF" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T17:03:04.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="cwxvgngR707rE0Lr2sdD" version="14.3.0" type="github">
   <diagram id="Fp49j-ldXMidW4PZOB5F" name="Page-1">
-    <mxGraphModel dx="1021" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="a357HjFBBBlNaXu_nX9p-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-1" target="2hRXGdgyLXMA3JdM_K0U-4">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2hRXGdgyLXMA3JdM_K0U-1" target="2hRXGdgyLXMA3JdM_K0U-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -77,7 +77,7 @@
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-11" value="Export file ke ekstensi GeoTIFF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="920" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-13" target="2hRXGdgyLXMA3JdM_K0U-15">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2hRXGdgyLXMA3JdM_K0U-13" target="2hRXGdgyLXMA3JdM_K0U-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="1045" />
@@ -88,73 +88,73 @@
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-13" value="&lt;span&gt;LST format GeoTIFF&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1010" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-15" target="2hRXGdgyLXMA3JdM_K0U-16">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="2hRXGdgyLXMA3JdM_K0U-15" target="2hRXGdgyLXMA3JdM_K0U-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-15" value="Membuka perangkat lunak Supermap iDesktop" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="1020" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-16" target="2hRXGdgyLXMA3JdM_K0U-17">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="2hRXGdgyLXMA3JdM_K0U-16" target="2hRXGdgyLXMA3JdM_K0U-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-16" value="Membuat datasource dan workspace dan import dataset" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="930" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-17" target="a357HjFBBBlNaXu_nX9p-3">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="2hRXGdgyLXMA3JdM_K0U-17" target="a357HjFBBBlNaXu_nX9p-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-17" value="&lt;span&gt;Import dataset LST GeoTIFF &lt;br&gt;dan Batas Administrasi &lt;br&gt;DKI Jakarta&amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="305" y="820" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-18" target="2hRXGdgyLXMA3JdM_K0U-19">
+        <mxCell id="UEsKZy8vmmx5lx6NOaR0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-18" target="UEsKZy8vmmx5lx6NOaR0-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-18" value="Konversi Data Raster ke Vektor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="530" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-19" target="2hRXGdgyLXMA3JdM_K0U-20">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="2hRXGdgyLXMA3JdM_K0U-19" target="2hRXGdgyLXMA3JdM_K0U-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-19" value="Create Thematic Map dan samakan klasifikasi interval, kelas dan warna" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="430" width="180" height="60" as="geometry" />
+          <mxGeometry x="290" y="340" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-20" target="a357HjFBBBlNaXu_nX9p-2">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="2hRXGdgyLXMA3JdM_K0U-20" target="a357HjFBBBlNaXu_nX9p-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-20" value="Melakukan overlay dengan batas administrasi DKI Jakarta serta memberikan styling pewarnaan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="340" width="180" height="60" as="geometry" />
+          <mxGeometry x="290" y="250" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-23" target="2hRXGdgyLXMA3JdM_K0U-24">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2hRXGdgyLXMA3JdM_K0U-23" target="2hRXGdgyLXMA3JdM_K0U-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-23" value="Upload data di Resources Data iPortal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="250" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-24" target="2hRXGdgyLXMA3JdM_K0U-26">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2hRXGdgyLXMA3JdM_K0U-24" target="2hRXGdgyLXMA3JdM_K0U-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-24" value="Melakukan styling di DataViz dan membuat file map" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="350" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-26" target="2hRXGdgyLXMA3JdM_K0U-27">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2hRXGdgyLXMA3JdM_K0U-26" target="2hRXGdgyLXMA3JdM_K0U-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-26" value="&lt;span&gt;Upload data kasus &lt;br&gt;Covid-19 &lt;br&gt;DKI Jakarta&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="440" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-27" target="2hRXGdgyLXMA3JdM_K0U-28">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2hRXGdgyLXMA3JdM_K0U-27" target="2hRXGdgyLXMA3JdM_K0U-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-27" value="Melakukan visualisasi data dengan menu Data Insight" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="540" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-28" target="a357HjFBBBlNaXu_nX9p-5">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2hRXGdgyLXMA3JdM_K0U-28" target="a357HjFBBBlNaXu_nX9p-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-28" value="Membuat masing-masing Map Dashboard dan membuat Dashboard berdasarkan peta yang sudah disimpan dari DataViz" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="640" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hRXGdgyLXMA3JdM_K0U-29" target="2hRXGdgyLXMA3JdM_K0U-30">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2hRXGdgyLXMA3JdM_K0U-29" target="2hRXGdgyLXMA3JdM_K0U-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-29" value="&lt;span&gt;Map Dashboard Perubahan &lt;br&gt;Suhu Permukaan Sebelum dan Selama Pandemi Covid-19 di DKI Jakarta&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
@@ -163,31 +163,37 @@
         <mxCell id="2hRXGdgyLXMA3JdM_K0U-30" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="585" y="980" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="a357HjFBBBlNaXu_nX9p-2">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a357HjFBBBlNaXu_nX9p-2" edge="1" target="2hRXGdgyLXMA3JdM_K0U-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="279.8571428571429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-2" value="Simpan Map, Datasource dan Workspace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="250" width="180" height="60" as="geometry" />
+        <mxCell id="a357HjFBBBlNaXu_nX9p-2" value="Simpan Map, Datasource dan Workspace" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="160" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a357HjFBBBlNaXu_nX9p-3" target="a357HjFBBBlNaXu_nX9p-4">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="a357HjFBBBlNaXu_nX9p-3" target="a357HjFBBBlNaXu_nX9p-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-3" value="Melakukan Raster Resampling dengan metode cubic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-3" value="Melakukan Raster Resampling dengan metode cubic" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="730" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a357HjFBBBlNaXu_nX9p-4" target="2hRXGdgyLXMA3JdM_K0U-18">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="a357HjFBBBlNaXu_nX9p-4" target="2hRXGdgyLXMA3JdM_K0U-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-4" value="Melakukan Clip data Raster dengan Batas Adminstirasi DKI Jakarta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-4" value="Melakukan Clip data Raster dengan Batas Adminstirasi DKI Jakarta" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="630" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a357HjFBBBlNaXu_nX9p-5" target="2hRXGdgyLXMA3JdM_K0U-29">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="a357HjFBBBlNaXu_nX9p-5" target="2hRXGdgyLXMA3JdM_K0U-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a357HjFBBBlNaXu_nX9p-5" value="Konfigurasi seluruh Map Dashboard dengan tools dashboard switch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a357HjFBBBlNaXu_nX9p-5" value="Konfigurasi seluruh Map Dashboard dengan tools dashboard switch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="745" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UEsKZy8vmmx5lx6NOaR0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UEsKZy8vmmx5lx6NOaR0-1" target="2hRXGdgyLXMA3JdM_K0U-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEsKZy8vmmx5lx6NOaR0-1" value="Melakukan Vektor Resampling dengan according skala terbesar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="440" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
