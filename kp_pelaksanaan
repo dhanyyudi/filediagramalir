@@ -1,151 +1,313 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T02:13:41.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="j7-lvy6ucLl4HCZbQyBE" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T03:46:08.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="8kn-eYWXeDiF0EtHOvFj" version="14.4.9" type="github">
   <diagram id="QImKuWUEqC43MfAXLa3m" name="Page-1">
-    <mxGraphModel dx="2480" dy="1614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8Kyooa641OdU9o5RL6Am-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-1" target="8Kyooa641OdU9o5RL6Am-2">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-1" target="8Kyooa641OdU9o5RL6Am-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="387.5" y="10" width="105" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-2" target="8Kyooa641OdU9o5RL6Am-5">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-2" target="8Kyooa641OdU9o5RL6Am-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pembuatan desain lajur kapal&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pembuatan desain lajur kapal&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-3" target="8Kyooa641OdU9o5RL6Am-6">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-3" target="8Kyooa641OdU9o5RL6Am-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Hasil desain lajur &lt;br&gt;kapal (.gpx)&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Hasil desain lajur &lt;br&gt;kapal (.gpx)&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-5" target="8Kyooa641OdU9o5RL6Am-3">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-5" target="8Kyooa641OdU9o5RL6Am-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Konversi hasil desain lajur kapal dan disimpan ke kartu memori&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Konversi hasil desain lajur kapal dan disimpan ke kartu memori&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-6" target="8Kyooa641OdU9o5RL6Am-8">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-6" target="8Kyooa641OdU9o5RL6Am-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-6" target="8Kyooa641OdU9o5RL6Am-7">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-6" target="8Kyooa641OdU9o5RL6Am-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Konfigurasi alat &lt;i&gt;single-beam echosounder&lt;/i&gt; dengan kapal dan peralatan lain&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Konfigurasi alat &lt;i&gt;single-beam echosounder&lt;/i&gt; dengan kapal dan peralatan lain&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-7" target="8Kyooa641OdU9o5RL6Am-9">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-7" target="8Kyooa641OdU9o5RL6Am-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pengamatan pasang surut air laut&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pengamatan pasang surut air laut&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-8" target="8Kyooa641OdU9o5RL6Am-10">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-8" target="8Kyooa641OdU9o5RL6Am-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Perekaman data kedalaman sesuai dengan lajur desain&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Perekaman data kedalaman sesuai dengan lajur desain&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-9" target="8Kyooa641OdU9o5RL6Am-11">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-9" target="8Kyooa641OdU9o5RL6Am-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Transfer data menjadi sheet menggunakan microsoft excel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Transfer data menjadi sheet menggunakan microsoft excel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-10" target="8Kyooa641OdU9o5RL6Am-15">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-10" target="8Kyooa641OdU9o5RL6Am-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;Transfer data dari kartu memori ke laptop menggunakan mapsource&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;Transfer data dari kartu memori ke laptop menggunakan mapsource&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-11" target="8Kyooa641OdU9o5RL6Am-15">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-11" target="8Kyooa641OdU9o5RL6Am-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Perhitungan nilai pasang surut air laut&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Perhitungan nilai pasang surut air laut&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-15" target="8Kyooa641OdU9o5RL6Am-16">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-15" target="8Kyooa641OdU9o5RL6Am-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pengolahan data hasil perekaman dikoreksikan dengan hasil pengamatan pasang surut air laut&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pengolahan data hasil perekaman dikoreksikan dengan hasil pengamatan pasang surut air laut&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="800" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-16" target="8Kyooa641OdU9o5RL6Am-17">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-16" target="8Kyooa641OdU9o5RL6Am-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;Penggambaran kontur dan potongan memanjang area pengerukan dengan AutoCAD Land Desktop&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;Penggambaran kontur dan potongan memanjang area pengerukan dengan AutoCAD Land Desktop&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="910" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-17" target="8Kyooa641OdU9o5RL6Am-19">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-17" target="8Kyooa641OdU9o5RL6Am-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Perhitungan volume dengan AutoCAD Land Desktop&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Perhitungan volume dengan AutoCAD Land Desktop&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-19" target="8Kyooa641OdU9o5RL6Am-21">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-19" target="8Kyooa641OdU9o5RL6Am-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-19" target="8Kyooa641OdU9o5RL6Am-20">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-19" target="8Kyooa641OdU9o5RL6Am-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;Export hasil penggambaran kontur dan perhitungan volume pengerukan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;Export hasil penggambaran kontur dan perhitungan volume pengerukan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-20" target="8Kyooa641OdU9o5RL6Am-22">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-20" target="8Kyooa641OdU9o5RL6Am-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-20" value="Peta Batimetri Area Kolam Pelabuhan 005 007 Tanjung Priok" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-20" value="Peta Batimetri Area Kolam Pelabuhan 005 007 Tanjung Priok" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="1240" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8Kyooa641OdU9o5RL6Am-21">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8Kyooa641OdU9o5RL6Am-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-21" value="Volume Pengerukan &lt;br&gt;Area Kolam &lt;br&gt;Pelabuhan 005 007 Tanjung Priok" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-21" value="Volume Pengerukan &lt;br&gt;Area Kolam &lt;br&gt;Pelabuhan 005 007 Tanjung Priok" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="1240" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="387.5" y="1370" width="105" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-41" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-41" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="110" as="sourcePoint" />
             <mxPoint x="640" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-42" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-42" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="235" y="400" as="sourcePoint" />
             <mxPoint x="645.0000000000002" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-43" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-43" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="690" as="sourcePoint" />
             <mxPoint x="660.0000000000002" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-44" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-44" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="890" as="sourcePoint" />
             <mxPoint x="670.0000000000002" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-45" value="&lt;font face=&quot;Times New Roman&quot;&gt;Persiapan Pengukuran&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-45" value="&lt;font face=&quot;Times New Roman&quot;&gt;Persiapan Pengukuran&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="90" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-46" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pelaksanaan Pengukuran&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-46" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pelaksanaan Pengukuran&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="380" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-48" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pengolahan Data Pengukuran&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-48" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pengolahan Data Pengukuran&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="670" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8Kyooa641OdU9o5RL6Am-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;Penggambaran dan Perhitungan Volume&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8Kyooa641OdU9o5RL6Am-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;Penggambaran dan Perhitungan Volume&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="870" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-2" target="gk2I7Ei5R-fe_NGwZnwm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1237.5" y="15" width="105" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-4" target="gk2I7Ei5R-fe_NGwZnwm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pembuatan desain lajur kapal&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-6" target="gk2I7Ei5R-fe_NGwZnwm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Hasil desain lajur &lt;br&gt;kapal (.gpx)&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-8" target="gk2I7Ei5R-fe_NGwZnwm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Konversi hasil desain lajur kapal dan disimpan ke kartu memori&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-9" target="gk2I7Ei5R-fe_NGwZnwm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Konfigurasi alat &lt;i&gt;single-beam echosounder&lt;/i&gt; dengan kapal dan peralatan lain&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-10" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="115" as="sourcePoint" />
+            <mxPoint x="1490.0000000000002" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-11" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1085" y="405" as="sourcePoint" />
+            <mxPoint x="1495.0000000000002" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;Persiapan Pengukuran&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="95" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pelaksanaan Pengukuran&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="385" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-14" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="520" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-17" target="gk2I7Ei5R-fe_NGwZnwm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pengamatan pasang surut air laut&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-19" target="gk2I7Ei5R-fe_NGwZnwm-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;Perekaman data kedalaman sesuai dengan lajur desain&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-21" target="gk2I7Ei5R-fe_NGwZnwm-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;Transfer data menjadi sheet menggunakan microsoft excel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-23" target="gk2I7Ei5R-fe_NGwZnwm-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;Transfer data dari kartu memori ke laptop menggunakan mapsource&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-25" target="gk2I7Ei5R-fe_NGwZnwm-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;Perhitungan nilai pasang surut air laut&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-27" target="gk2I7Ei5R-fe_NGwZnwm-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pengolahan data hasil perekaman dikoreksikan dengan hasil pengamatan pasang surut air laut&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="970" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-29" target="gk2I7Ei5R-fe_NGwZnwm-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;Penggambaran kontur dan potongan memanjang area pengerukan dengan AutoCAD Land Desktop&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1080" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-31" target="gk2I7Ei5R-fe_NGwZnwm-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;Perhitungan volume dengan AutoCAD Land Desktop&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-34" target="gk2I7Ei5R-fe_NGwZnwm-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-34" target="gk2I7Ei5R-fe_NGwZnwm-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-34" value="&lt;font face=&quot;Times New Roman&quot;&gt;Export hasil penggambaran kontur dan perhitungan volume pengerukan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-36" target="gk2I7Ei5R-fe_NGwZnwm-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-36" value="Peta Batimetri Area Kolam Pelabuhan 005 007 Tanjung Priok" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1410" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-38" value="Volume Pengerukan &lt;br&gt;Area Kolam &lt;br&gt;Pelabuhan 005 007 Tanjung Priok" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1410" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1207.5" y="1540" width="105" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-40" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="860" as="sourcePoint" />
+            <mxPoint x="1480" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-41" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="1060" as="sourcePoint" />
+            <mxPoint x="1490" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-42" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pengolahan Data Pengukuran&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="840" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-43" value="&lt;font face=&quot;Times New Roman&quot;&gt;Penggambaran dan Perhitungan Volume&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1040" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-44" target="gk2I7Ei5R-fe_NGwZnwm-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1260" y="670" />
+              <mxPoint x="1350" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gk2I7Ei5R-fe_NGwZnwm-44" target="gk2I7Ei5R-fe_NGwZnwm-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1260" y="670" />
+              <mxPoint x="1170" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk2I7Ei5R-fe_NGwZnwm-44" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="610" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
