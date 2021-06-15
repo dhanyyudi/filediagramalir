@@ -1,47 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T22:29:36.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="4Ct44B4s20tDGH0kawwb" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-15T22:35:38.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="JPC3ZCiChjYa7jZLjLyj" version="14.7.7" type="github">
   <diagram id="bvAxNLOjspmIsYx90Dgg" name="Page-1">
-    <mxGraphModel dx="599" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="289" dy="173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FvhQ2WhD7c4Xzv8__gqx-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="133" y="40" width="85" height="60" as="geometry" />
+          <mxGeometry x="175" y="60" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FvhQ2WhD7c4Xzv8__gqx-4" value="Data raster &lt;br&gt;DSM ALOS AW3D 30m S008E109" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FvhQ2WhD7c4Xzv8__gqx-5" value="Data vektor SHP &lt;br&gt;Bangunan OSM &lt;br&gt;Kota Yogyakarta" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FvhQ2WhD7c4Xzv8__gqx-6" value="Area Solar Radiation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="30" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="FvhQ2WhD7c4Xzv8__gqx-6" value="Konversi menjadi nilai radiasi matahari menggunakan &lt;i&gt;Area Solar Radiation&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="50" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FvhQ2WhD7c4Xzv8__gqx-16" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="647.5" y="680" width="85" height="60" as="geometry" />
+          <mxGeometry x="967.5" y="410" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-1" value="Konversi satuan radiasi matahari ke kWh/m2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="30" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-2" value="Klasifikasi berdasarkan 4 Kriteria" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-3" value="Kriteria 1 kemiringan kurang atau sama dengan 45 derajat" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="410" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-4" value="Kriteria 2 menerima radiasi matahari paling sedikit 800 kWh/m2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="410" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-5" value="Kriteria 3 orientasi tidak menghadap ke arah selatan" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="410" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-6" value="Kriteria 4 luas permukaan paling sedikit 30 m2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="410" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-7" value="Konversi nilai dari kWh/m2 ke MWh/m2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="600" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-8" value="Konversi nilai radiasi matahari menjadi nilai &lt;i&gt;solar photovoltaic&lt;/i&gt; (PV)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="600" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-9" value="Penyajian data di ArcGIS Dashboard" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="920" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-10" value="Pengolahan kemiringan data DSM dengan &lt;i&gt;Slope&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-11" value="Pengolahan orientasi data DSM dengan &lt;i&gt;Aspect&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
