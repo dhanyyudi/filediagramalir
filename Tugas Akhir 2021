@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T16:14:33.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="W0e0A8SxVv1ykxNWypt7" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T16:18:23.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="RxKeMr0kZxKPw94MJ8sj" version="14.7.7" type="github">
   <diagram id="bvAxNLOjspmIsYx90Dgg" name="Page-1">
-    <mxGraphModel dx="1148" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1640" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FvhQ2WhD7c4Xzv8__gqx-1" target="FvhQ2WhD7c4Xzv8__gqx-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FvhQ2WhD7c4Xzv8__gqx-1" target="FvhQ2WhD7c4Xzv8__gqx-5">
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FvhQ2WhD7c4Xzv8__gqx-1" target="FvhQ2WhD7c4Xzv8__gqx-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FvhQ2WhD7c4Xzv8__gqx-1" value="Mulai" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -25,8 +25,11 @@
         <mxCell id="FvhQ2WhD7c4Xzv8__gqx-4" value="Data raster &lt;br&gt;DSM ALOS AW3D 30m S008E109" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="342.5" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FvhQ2WhD7c4Xzv8__gqx-5" target="d4Y3ImPpZ9I7xp7guEeH-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FvhQ2WhD7c4Xzv8__gqx-5" value="Data vektor SHP &lt;br&gt;Bangunan OSM &lt;br&gt;Kota Yogyakarta" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="520" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FvhQ2WhD7c4Xzv8__gqx-6" target="d4Y3ImPpZ9I7xp7guEeH-1">
           <mxGeometry relative="1" as="geometry" />
@@ -67,8 +70,11 @@
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-5" value="Pengolahan kriteria 3 orientasi tidak menghadap ke arah selatan" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="425" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-6" value="Pengolahan kriteria 4 luas permukaan paling sedikit 30 m2 dan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="585" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-6" target="d4Y3ImPpZ9I7xp7guEeH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-6" value="Pengolahan kriteria 4 luas permukaan paling sedikit 30 m2&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="690" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-7" value="Konversi nilai dari kWh/m2 ke MWh/m2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="920" y="170" width="120" height="60" as="geometry" />
@@ -123,6 +129,14 @@
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-16" value="Layer&lt;br&gt;Radiasi Matahari 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="262.5" y="680" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-17" target="d4Y3ImPpZ9I7xp7guEeH-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="710" />
+              <mxPoint x="660" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-17" value="Layer &lt;br&gt;Radiasi Matahari 3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="425" y="680" width="120" height="60" as="geometry" />
         </mxCell>
@@ -144,7 +158,19 @@
           <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-21" value="Layer &lt;br&gt;Radiasi Matahari 4" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="585" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-47" target="d4Y3ImPpZ9I7xp7guEeH-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-47" value="Penggabungan data menggunakan Zonal Statistic as Table" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="690" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-51" target="d4Y3ImPpZ9I7xp7guEeH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-51" value="Layer vektor &lt;br&gt;bangunan dengan attribut radiasi &lt;br&gt;matahari" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="690" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
