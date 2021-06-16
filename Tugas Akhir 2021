@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T16:22:03.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="eT16WXsqAXHmwNLwtgKs" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T16:23:35.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="qnwhJXPotKNVf7feKBcd" version="14.7.7" type="github">
   <diagram id="bvAxNLOjspmIsYx90Dgg" name="Page-1">
-    <mxGraphModel dx="1148" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2296" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-2" target="d4Y3ImPpZ9I7xp7guEeH-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-2" value="Analisis nilai radiasi berdasarkan 4 kriteria menggunakan &lt;i&gt;CON&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-2" value="Analisis nilai radiasi berdasarkan 4 kriteria menggunakan &lt;i&gt;CON&amp;nbsp;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.575;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-3" target="d4Y3ImPpZ9I7xp7guEeH-15">
@@ -73,14 +73,14 @@
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-6" target="d4Y3ImPpZ9I7xp7guEeH-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-6" value="Pengolahan kriteria 4 luas permukaan paling sedikit 30 m2&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="690" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-6" value="Pengolahan kriteria 4 luas permukaan paling sedikit 30 m2 menggunakan &lt;i&gt;Select by Attributes&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="690" y="450" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-7" target="d4Y3ImPpZ9I7xp7guEeH-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-7" value="Konversi nilai radiasi dari kWh/m2 ke MWh/m2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="690" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-8" target="d4Y3ImPpZ9I7xp7guEeH-56">
           <mxGeometry relative="1" as="geometry" />
@@ -166,11 +166,13 @@
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-19" value="Low_Slope" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-21" target="d4Y3ImPpZ9I7xp7guEeH-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="d4Y3ImPpZ9I7xp7guEeH-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="610" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-21" value="Layer &lt;br&gt;vektor radiasi &lt;br&gt;matahari" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="690" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-47" target="d4Y3ImPpZ9I7xp7guEeH-51">
           <mxGeometry relative="1" as="geometry" />
