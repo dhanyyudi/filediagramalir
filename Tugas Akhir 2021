@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T16:14:11.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="1zG08QP2dOvSx_nVB5iA" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T16:14:33.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="W0e0A8SxVv1ykxNWypt7" version="14.7.7" type="github">
   <diagram id="bvAxNLOjspmIsYx90Dgg" name="Page-1">
-    <mxGraphModel dx="1913" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,20 +28,26 @@
         <mxCell id="FvhQ2WhD7c4Xzv8__gqx-5" value="Data vektor SHP &lt;br&gt;Bangunan OSM &lt;br&gt;Kota Yogyakarta" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="520" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FvhQ2WhD7c4Xzv8__gqx-6" target="d4Y3ImPpZ9I7xp7guEeH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FvhQ2WhD7c4Xzv8__gqx-6" value="Konversi menjadi nilai radiasi matahari menggunakan &lt;i&gt;Area Solar Radiation&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="342.5" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FvhQ2WhD7c4Xzv8__gqx-16" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="937.5" y="420" width="85" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-1" target="d4Y3ImPpZ9I7xp7guEeH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-1" value="Konversi satuan radiasi matahari ke kWh/m2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="342.5" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-2" target="d4Y3ImPpZ9I7xp7guEeH-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-2" value="Analisis nilai radiasi berdasarkan 4 Kriteria" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="342.5" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.575;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-3" target="d4Y3ImPpZ9I7xp7guEeH-15">
           <mxGeometry relative="1" as="geometry" />
@@ -127,7 +133,12 @@
           <mxGeometry x="160" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-19" target="d4Y3ImPpZ9I7xp7guEeH-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="540" />
+              <mxPoint x="485" y="540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-19" value="Low_Slope" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="160" y="460" width="120" height="60" as="geometry" />
