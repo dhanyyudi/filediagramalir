@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T12:34:05.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" version="14.9.5" etag="ycO3nt-WAAi0GZ9TNvKE" type="github"><diagram id="O1eDp2Kf0lfHrKF-7mso">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-24T12:40:36.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="Wkpo0d3LFHzfqA58hmPU" version="14.9.5" type="github">
+  <diagram id="O1eDp2Kf0lfHrKF-7mso" name="Page-1">
+    <mxGraphModel dx="2170" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VFAjBYusov8BLLuSEXiv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VFAjBYusov8BLLuSEXiv-1" target="VFAjBYusov8BLLuSEXiv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="40" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VFAjBYusov8BLLuSEXiv-2" target="VFAjBYusov8BLLuSEXiv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Membuat model baru&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VFAjBYusov8BLLuSEXiv-3" target="VFAjBYusov8BLLuSEXiv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Memotret memutari objek&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VFAjBYusov8BLLuSEXiv-4" target="VFAjBYusov8BLLuSEXiv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Imageset&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Melakukan pemotretan tambahan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VFAjBYusov8BLLuSEXiv-6" target="VFAjBYusov8BLLuSEXiv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.421;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VFAjBYusov8BLLuSEXiv-6" target="VFAjBYusov8BLLuSEXiv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Refining &lt;br&gt;Object&lt;/i&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.539;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VFAjBYusov8BLLuSEXiv-7" target="VFAjBYusov8BLLuSEXiv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Export Models&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.542;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VFAjBYusov8BLLuSEXiv-8" target="VFAjBYusov8BLLuSEXiv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;File Models 3D&lt;br&gt;&amp;nbsp;(.stl, .pcd)&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VFAjBYusov8BLLuSEXiv-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="750" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
