@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-10T10:22:27.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="o4PcJYDyxkMeATck9Nut" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T02:52:56.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="lZKywGpIocG1Th7Lo_aq" version="15.5.1" type="github">
   <diagram id="bvAxNLOjspmIsYx90Dgg" name="Page-1">
-    <mxGraphModel dx="2170" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-2" value="Analisis nilai radiasi berdasarkan 4 kriteria menggunakan &lt;i style=&quot;font-size: 14px;&quot;&gt;CON&amp;nbsp;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="342.5" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="335.5" y="460" width="132.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.575;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-3" target="d4Y3ImPpZ9I7xp7guEeH-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -109,7 +109,7 @@
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-12" target="d4Y3ImPpZ9I7xp7guEeH-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g49QwCCsoOpZL-FK1Xgg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-12" target="d4Y3ImPpZ9I7xp7guEeH-3">
+        <mxCell id="g49QwCCsoOpZL-FK1Xgg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-12" target="d4Y3ImPpZ9I7xp7guEeH-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="289" />
@@ -138,7 +138,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-15" value="Layer &lt;br style=&quot;font-size: 14px;&quot;&gt;Radiasi Matahari 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-15" value="Layer &lt;br style=&quot;font-size: 14px&quot;&gt;Radiasi &lt;br&gt;Matahari 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="90" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-16" target="d4Y3ImPpZ9I7xp7guEeH-5" edge="1">
@@ -149,7 +149,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-16" value="Layer&lt;br style=&quot;font-size: 14px;&quot;&gt;Radiasi Matahari 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-16" value="Layer&lt;br style=&quot;font-size: 14px&quot;&gt;Radiasi &lt;br&gt;Matahari 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="262.5" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-17" target="d4Y3ImPpZ9I7xp7guEeH-47" edge="1">
@@ -160,7 +160,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-17" value="Layer &lt;br style=&quot;font-size: 14px;&quot;&gt;Radiasi Matahari 3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="d4Y3ImPpZ9I7xp7guEeH-17" value="Layer &lt;br style=&quot;font-size: 14px&quot;&gt;Radiasi &lt;br&gt;Matahari 3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="425" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4Y3ImPpZ9I7xp7guEeH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="d4Y3ImPpZ9I7xp7guEeH-18" target="d4Y3ImPpZ9I7xp7guEeH-19" edge="1">
