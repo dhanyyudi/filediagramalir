@@ -1,11 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T08:41:01.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="5U1EM7S1Ek28elfYQP2X" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T09:06:44.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="NgYpa1aBQvoswuMX6rVo" version="15.5.2" type="github">
   <diagram id="HiyyFYA9sZTwQgOtJdvb" name="Page-1">
-    <mxGraphModel dx="1021" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6uee7UJ4aI8trVX8TNtd-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6uee7UJ4aI8trVX8TNtd-2" value="Data Foto &lt;br&gt;Terestrial Candi Gebang" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="335" y="150" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6uee7UJ4aI8trVX8TNtd-3" value="Membuka perangkat lunak meshroom dan melakukan penyimpanan project" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="325" y="270" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6uee7UJ4aI8trVX8TNtd-4" value="candi_gebang.mg" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="335" y="380" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6uee7UJ4aI8trVX8TNtd-5" value="Memulai pengolahan dengan memilih Start" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="325" y="490" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6uee7UJ4aI8trVX8TNtd-6" value="Indikator &lt;br&gt;pengolahan &lt;i&gt;success&lt;/i&gt; berwarna &lt;b&gt;hijau&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="325" y="620" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6uee7UJ4aI8trVX8TNtd-7" value="Menyimpan project selesai pengolahan" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="810" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6uee7UJ4aI8trVX8TNtd-8" value="Membuka perangkat lunak Blender" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="510" y="810" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6uee7UJ4aI8trVX8TNtd-9" value="Import file textured.mesh" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="620" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6uee7UJ4aI8trVX8TNtd-10" value="Menghapus vertex/objek yang tidak dibutuhkan" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="510" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
