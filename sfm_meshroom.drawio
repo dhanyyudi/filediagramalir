@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T15:10:34.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="B51wk1loCbUyZTL0--C6" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T15:12:57.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="SX5fs91A0o5ldcx663eO" version="15.5.2" type="github">
   <diagram id="HiyyFYA9sZTwQgOtJdvb" name="Page-1">
-    <mxGraphModel dx="2170" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,18 @@
         <mxCell id="6uee7UJ4aI8trVX8TNtd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="6uee7UJ4aI8trVX8TNtd-6" target="6uee7UJ4aI8trVX8TNtd-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6uee7UJ4aI8trVX8TNtd-33" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="6uee7UJ4aI8trVX8TNtd-22">
+          <mxGeometry x="-0.2414" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6uee7UJ4aI8trVX8TNtd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="6uee7UJ4aI8trVX8TNtd-6" target="6uee7UJ4aI8trVX8TNtd-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="670" />
+              <mxPoint x="220" y="670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6uee7UJ4aI8trVX8TNtd-6" value="Indikator &lt;br&gt;pengolahan &lt;i&gt;success&lt;/i&gt; berwarna &lt;b&gt;hijau&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="245" y="600" width="140" height="140" as="geometry" />
@@ -93,6 +103,9 @@
         </mxCell>
         <mxCell id="6uee7UJ4aI8trVX8TNtd-16" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="715" y="890" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6uee7UJ4aI8trVX8TNtd-34" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="205" y="655" width="35" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
