@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T06:50:44.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="nPi02JMUPDm3swA2QaFj" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T06:50:52.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="EFw4RdclzPWF3iOvho5j" version="15.7.3" type="github">
   <diagram id="BsAPUcBATR1Y3IFMoSv9" name="Page-1">
-    <mxGraphModel dx="599" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2170" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,8 +34,14 @@
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-6" value="Denton2009.lasd" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="260" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-7" target="9fmHS8Y0tf4fx0MiSsFq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-7" value="Mengolah point cloud menjadi &lt;i&gt;Digital Terrain Model&lt;/i&gt; (DTM)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="368" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-9" target="9fmHS8Y0tf4fx0MiSsFq-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-9" value="Mengolah point cloud menjadi &lt;i&gt;Digital Surface Model&lt;/i&gt; (DSM)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="368" y="520" width="120" height="60" as="geometry" />
