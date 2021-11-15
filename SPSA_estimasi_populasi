@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T06:50:52.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="EFw4RdclzPWF3iOvho5j" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T07:02:13.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="vbsGGa83qWZCYBVQ6jvq" version="15.7.3" type="github">
   <diagram id="BsAPUcBATR1Y3IFMoSv9" name="Page-1">
-    <mxGraphModel dx="2170" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="496" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,32 +46,72 @@
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-9" value="Mengolah point cloud menjadi &lt;i&gt;Digital Surface Model&lt;/i&gt; (DSM)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="368" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-10" target="9fmHS8Y0tf4fx0MiSsFq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-10" value="Mengolah DTM dan DSM menjadi &lt;i&gt;Digital Height Model&lt;/i&gt; (DHM)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="368" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-11" target="9fmHS8Y0tf4fx0MiSsFq-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-11" value="Memisahkan bangunan tempat tinggal dengan threshold 2,2 meter" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="368" y="700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-12" target="9fmHS8Y0tf4fx0MiSsFq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-12" value="Membuat binary mask dari data yang sudah dipisahkan" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="368" y="790" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-13" target="9fmHS8Y0tf4fx0MiSsFq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-13" value="Eliminasi noise pada binary mask" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="370.5" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="367.5" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-14" target="9fmHS8Y0tf4fx0MiSsFq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-14" target="9fmHS8Y0tf4fx0MiSsFq-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="1040" />
+              <mxPoint x="583" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-14" target="9fmHS8Y0tf4fx0MiSsFq-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="1040" />
+              <mxPoint x="283" y="1040" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-14" value="Membuat building footprints berdasarkan data hasil eliminasi noise" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="370.5" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="367.5" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-15" target="9fmHS8Y0tf4fx0MiSsFq-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-15" value="bldg_poly.shp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="223" y="1060" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-16" target="9fmHS8Y0tf4fx0MiSsFq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-16" value="bldg_mask2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="368" y="1060" width="120" height="50" as="geometry" />
+          <mxGeometry x="367.5" y="1060" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-17" target="9fmHS8Y0tf4fx0MiSsFq-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-17" value="dhm_bldg" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="523" y="1060" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-18" value="Memilih&amp;nbsp;30 sampel data blok sensus" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="371" y="1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="368" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-19" value="Menghitung jumlah bangunan setiap blok sensus" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="371" y="1240" width="120" height="60" as="geometry" />
@@ -132,6 +172,48 @@
         </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-41" value="&lt;i&gt;Conversion Tools - LAS Dataset to Raster&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="172.5" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-47" target="9fmHS8Y0tf4fx0MiSsFq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-47" value="&lt;i&gt;Spatial Analyst Tool - Raster Calculator&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="170" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-48" target="9fmHS8Y0tf4fx0MiSsFq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-48" value="&lt;i&gt;Raster Calculator :&lt;/i&gt;&lt;br&gt;&quot;DSM&quot; - &quot;DTM&quot;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="562.5" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-51" target="9fmHS8Y0tf4fx0MiSsFq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-51" value="&lt;i&gt;Raster Calculator :&lt;/i&gt;&lt;br&gt;Con(&quot;DHM&quot;&amp;gt;2.2,&quot;DHM&quot;,0)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="560" y="700" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-53" target="9fmHS8Y0tf4fx0MiSsFq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-53" value="&lt;i&gt;Raster Calculator :&lt;/i&gt;&lt;br&gt;Con(&quot;dhm_bldg&quot;&amp;gt;0,1,0)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="560" y="790" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-55" target="9fmHS8Y0tf4fx0MiSsFq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-55" value="&lt;i&gt;Spatial Analyst Tool - Focal Statistics&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="180" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-56" target="9fmHS8Y0tf4fx0MiSsFq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-56" value="&lt;i&gt;Statistic type : MEDIAN&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="555" y="880" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-59" target="9fmHS8Y0tf4fx0MiSsFq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-59" value="&lt;i&gt;Raster to Polygon&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="180" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
