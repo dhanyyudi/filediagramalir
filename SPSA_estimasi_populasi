@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T06:03:41.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.3" etag="YgQQXHfNltm2KsMx8IeP" type="github"><diagram id="BsAPUcBATR1Y3IFMoSv9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-15T06:32:03.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="3rdgP4FuVERY8Zj67gq3" version="15.7.3" type="github">
+  <diagram id="BsAPUcBATR1Y3IFMoSv9" name="Page-1">
+    <mxGraphModel dx="723" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="10" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-3" value="Denton2009.las" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-4" value="Membuat LAS Dataset" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="365" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-5" value="Membuat Geodatabase" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-6" value="Denton2009.lasd" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-7" value="Mengolah point cloud menjadi Digital Terrain Model (DTM)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="365" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-8" value="Mengolah point cloud menjadi Digital Terrain Model (DTM)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="560" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-9" value="Mengolah point cloud menjadi Digital Surface Model (DSM)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="365" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-10" value="Mengolah DTM dan DSM menjadi Digital Height Model (DHM)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="365" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-11" value="Memisahkan bangunan tempat tinggal dengan threshold 2,2 meter" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="365" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-12" value="Membuat binary mask dari data yang sudah dipisahkan" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="365" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-13" value="Eliminasi noise pada binary mask" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-14" value="Membuat building footprints berdasarkan data hasil eliminasi noise" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-15" value="bldg_poly.shp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1060" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-16" value="bldg_mask2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1060" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-17" value="dhm_bldg" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1060" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
