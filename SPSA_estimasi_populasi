@@ -1,69 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T07:06:41.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="EPJ1hFOPIo7CML1usHHV" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T07:19:06.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="rEg1Qnp0mcReGWUVU-tU" version="15.7.3" type="github">
   <diagram id="BsAPUcBATR1Y3IFMoSv9" name="Page-1">
-    <mxGraphModel dx="1736" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2480" dy="1486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-1" target="9fmHS8Y0tf4fx0MiSsFq-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="10" width="75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-3" target="9fmHS8Y0tf4fx0MiSsFq-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-3" value="Denton2009.las" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="90" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-4" target="9fmHS8Y0tf4fx0MiSsFq-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-4" value="Membuat LAS Dataset" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="368" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-5" target="9fmHS8Y0tf4fx0MiSsFq-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-5" value="Membuat Geodatabase" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-6" target="9fmHS8Y0tf4fx0MiSsFq-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-6" value="Denton2009.lasd" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="260" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-7" target="9fmHS8Y0tf4fx0MiSsFq-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-7" value="Mengolah point cloud menjadi &lt;i&gt;Digital Terrain Model&lt;/i&gt; (DTM)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="368" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-9" target="9fmHS8Y0tf4fx0MiSsFq-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-9" value="Mengolah point cloud menjadi &lt;i&gt;Digital Surface Model&lt;/i&gt; (DSM)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="368" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-10" target="9fmHS8Y0tf4fx0MiSsFq-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-10" value="Mengolah DTM dan DSM menjadi &lt;i&gt;Digital Height Model&lt;/i&gt; (DHM)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="368" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-11" target="9fmHS8Y0tf4fx0MiSsFq-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-11" value="Memisahkan bangunan tempat tinggal dengan threshold 2,2 meter" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="368" y="700" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-12" target="9fmHS8Y0tf4fx0MiSsFq-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-12" value="Membuat binary mask dari data yang sudah dipisahkan" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="368" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-13" target="9fmHS8Y0tf4fx0MiSsFq-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -189,60 +129,6 @@
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="393.5" y="1850" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-29" target="9fmHS8Y0tf4fx0MiSsFq-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-29" value="&lt;i&gt;Data Management Tools - Create LAS Dataset&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-36" target="9fmHS8Y0tf4fx0MiSsFq-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-36" value="&lt;i&gt;Filter LAS : Ground, Building, Water&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="560" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-37" target="9fmHS8Y0tf4fx0MiSsFq-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-37" value="&lt;i&gt;Conversion Tools - LAS Dataset to Raster&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="170" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-40" target="9fmHS8Y0tf4fx0MiSsFq-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-40" value="&lt;i&gt;Filter LAS : Ground &amp;amp; Water&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="562.5" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-41" target="9fmHS8Y0tf4fx0MiSsFq-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-41" value="&lt;i&gt;Conversion Tools - LAS Dataset to Raster&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="172.5" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-47" target="9fmHS8Y0tf4fx0MiSsFq-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-47" value="&lt;i&gt;Spatial Analyst Tool - Raster Calculator&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="170" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-48" target="9fmHS8Y0tf4fx0MiSsFq-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-48" value="&lt;i&gt;Raster Calculator :&lt;/i&gt;&lt;br&gt;&quot;DSM&quot; - &quot;DTM&quot;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="562.5" y="610" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-51" target="9fmHS8Y0tf4fx0MiSsFq-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-51" value="&lt;i&gt;Raster Calculator :&lt;/i&gt;&lt;br&gt;Con(&quot;DHM&quot;&amp;gt;2.2,&quot;DHM&quot;,0)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="560" y="700" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-53" target="9fmHS8Y0tf4fx0MiSsFq-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-53" value="&lt;i&gt;Raster Calculator :&lt;/i&gt;&lt;br&gt;Con(&quot;dhm_bldg&quot;&amp;gt;0,1,0)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="560" y="790" width="150" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-55" target="9fmHS8Y0tf4fx0MiSsFq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -296,6 +182,117 @@
         </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-90" value="&lt;i&gt;Input Value raster : dhm_bldg&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="540" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-103" target="9fmHS8Y0tf4fx0MiSsFq-105" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-103" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="30" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-105" target="9fmHS8Y0tf4fx0MiSsFq-107" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-105" value="Denton2009.las" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1087.5" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-107" target="9fmHS8Y0tf4fx0MiSsFq-111" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-107" value="Membuat LAS Dataset" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1088" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-109" target="9fmHS8Y0tf4fx0MiSsFq-113" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-109" value="Membuat Geodatabase" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1087.5" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-111" target="9fmHS8Y0tf4fx0MiSsFq-109" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-111" value="Denton2009.lasd" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1087.5" y="280" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-113" target="9fmHS8Y0tf4fx0MiSsFq-115" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-113" value="Mengolah point cloud menjadi &lt;i&gt;Digital Terrain Model&lt;/i&gt; (DTM)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1088" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-115" target="9fmHS8Y0tf4fx0MiSsFq-117" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-115" value="Mengolah point cloud menjadi &lt;i&gt;Digital Surface Model&lt;/i&gt; (DSM)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1088" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-117" target="9fmHS8Y0tf4fx0MiSsFq-118" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-117" value="Mengolah DTM dan DSM menjadi &lt;i&gt;Digital Height Model&lt;/i&gt; (DHM)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1088" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-118" target="9fmHS8Y0tf4fx0MiSsFq-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-118" value="Memisahkan bangunan tempat tinggal dengan threshold 2,2 meter" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1088" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-120" target="9fmHS8Y0tf4fx0MiSsFq-107" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-120" value="&lt;i&gt;Data Management Tools - Create LAS Dataset&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-122" target="9fmHS8Y0tf4fx0MiSsFq-115" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-122" value="&lt;i&gt;Filter LAS : Ground, Building, Water&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-124" target="9fmHS8Y0tf4fx0MiSsFq-115" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-124" value="&lt;i&gt;Conversion Tools - LAS Dataset to Raster&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="890" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-126" target="9fmHS8Y0tf4fx0MiSsFq-113" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-126" value="&lt;i&gt;Filter LAS : Ground &amp;amp; Water&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1282.5" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-128" target="9fmHS8Y0tf4fx0MiSsFq-113" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-128" value="&lt;i&gt;Conversion Tools - LAS Dataset to Raster&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="892.5" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-130" target="9fmHS8Y0tf4fx0MiSsFq-117" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-130" value="&lt;i&gt;Spatial Analyst Tool - Raster Calculator&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="890" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-132" target="9fmHS8Y0tf4fx0MiSsFq-117" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-132" value="&lt;i&gt;Raster Calculator :&lt;/i&gt;&lt;br&gt;&quot;DSM&quot; - &quot;DTM&quot;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1282.5" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="9fmHS8Y0tf4fx0MiSsFq-134" target="9fmHS8Y0tf4fx0MiSsFq-118" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-134" value="&lt;i&gt;Raster Calculator :&lt;/i&gt;&lt;br&gt;Con(&quot;DHM&quot;&amp;gt;2.2,&quot;DHM&quot;,0)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="720" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-135" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1127.5" y="800" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="9fmHS8Y0tf4fx0MiSsFq-137" target="9fmHS8Y0tf4fx0MiSsFq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-137" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="810" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
