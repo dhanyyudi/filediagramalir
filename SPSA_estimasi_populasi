@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T06:46:14.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="km33Uy_n94yxvbgsvyGK" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T06:47:37.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="E2f8XDno_ofdvM-_4VV6" version="15.7.3" type="github">
   <diagram id="BsAPUcBATR1Y3IFMoSv9" name="Page-1">
-    <mxGraphModel dx="723" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="599" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,12 @@
         </mxCell>
         <mxCell id="9fmHS8Y0tf4fx0MiSsFq-26" value="Menghitung populasi berdasarkan persamaan regresi" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-27" value="Jumlah populasi berdasarkan &lt;br&gt;3 variabel" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="368" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9fmHS8Y0tf4fx0MiSsFq-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="1850" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
