@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T01:19:43.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="UM9Ovv46kdG1iSwPRumz" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-01T01:20:42.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Nc9MXUkKv_rUK3BQOIiA" version="15.8.8" type="github">
   <diagram id="zT-l5OCkavfB7E0OmwyC" name="Page-1">
-    <mxGraphModel dx="1718" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1449" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-1" target="p3ku-7Z1IPUyiA6E_3Sg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="378" y="20" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-2" target="p3ku-7Z1IPUyiA6E_3Sg-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-2" value="Orthofoto &lt;br&gt;Kecamatan Wates" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="358" y="130" width="134" height="60" as="geometry" />
@@ -57,6 +63,9 @@
         </mxCell>
         <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-3" target="p3ku-7Z1IPUyiA6E_3Sg-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-23" value="Start Editing - Create Features" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fontSize=14;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="550" y="540" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
