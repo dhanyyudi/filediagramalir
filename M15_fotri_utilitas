@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T01:21:16.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="QML5t71ZuPmlRuANMdgB" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-01T01:29:33.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="K3jKQ_XhZKuXsgKtRjEm" version="15.8.8" type="github">
   <diagram id="zT-l5OCkavfB7E0OmwyC" name="Page-1">
-    <mxGraphModel dx="2090" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2297" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,32 @@
         </mxCell>
         <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-2" value="Orthofoto &lt;br&gt;Kecamatan Wates" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="358" y="130" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-3" target="p3ku-7Z1IPUyiA6E_3Sg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-3" target="p3ku-7Z1IPUyiA6E_3Sg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-3" target="p3ku-7Z1IPUyiA6E_3Sg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-3" target="p3ku-7Z1IPUyiA6E_3Sg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-3" target="p3ku-7Z1IPUyiA6E_3Sg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-3" target="p3ku-7Z1IPUyiA6E_3Sg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-3" target="p3ku-7Z1IPUyiA6E_3Sg-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="426" y="310" />
+              <mxPoint x="50" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-3" value="Membuat shapefile baru" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="366" y="230" width="120" height="60" as="geometry" />
@@ -40,23 +66,74 @@
         <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-6" value="Simbolisasi layer&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="366" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-7" target="p3ku-7Z1IPUyiA6E_3Sg-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="410" />
+              <mxPoint x="426" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-7" value="Jaringan &lt;br&gt;Kabel.shp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-10" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-8" target="p3ku-7Z1IPUyiA6E_3Sg-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="410" />
+              <mxPoint x="426" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-8" value="Tiang &lt;br&gt;Listrik.shp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="110" y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-9" target="p3ku-7Z1IPUyiA6E_3Sg-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="410" />
+              <mxPoint x="426" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-9" value="Tiang &lt;br&gt;Lampu.shp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="240" y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-10" target="p3ku-7Z1IPUyiA6E_3Sg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-10" value="Saluran Air.shp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="370" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="366" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-11" target="p3ku-7Z1IPUyiA6E_3Sg-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="410" />
+              <mxPoint x="426" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-11" value="Sungai.shp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="490" y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-12" target="p3ku-7Z1IPUyiA6E_3Sg-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="410" />
+              <mxPoint x="426" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-12" value="Jalan.shp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="610" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="p3ku-7Z1IPUyiA6E_3Sg-13" target="p3ku-7Z1IPUyiA6E_3Sg-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="410" />
+              <mxPoint x="426" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="p3ku-7Z1IPUyiA6E_3Sg-13" value="Bangunan.shp" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="740" y="330" width="120" height="60" as="geometry" />
