@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T02:33:11.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" version="17.4.5" etag="mRGyQ_v8SDf64U7KEnPO" type="github"><diagram id="Cjuw87au5OQHgRJzJr-S">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-20T03:49:40.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="q7g4ZBBQjx8cO5Ic5ABJ" version="17.4.5" type="github">
+  <diagram id="Cjuw87au5OQHgRJzJr-S" name="Page-1">
+    <mxGraphModel dx="1185" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qf3JYqNvCHvB7WJSeNlq-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="20" width="94" height="63.27" as="geometry" />
+        </mxCell>
+        <mxCell id="qf3JYqNvCHvB7WJSeNlq-3" value="Survei Pendahuluan" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="282" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qf3JYqNvCHvB7WJSeNlq-4" value="Uji Alat" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="426" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qf3JYqNvCHvB7WJSeNlq-5" value="Rencana Desain &lt;br&gt;Jaring JKV" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="354" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qf3JYqNvCHvB7WJSeNlq-6" value="Desain Jaring JKV Final" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qf3JYqNvCHvB7WJSeNlq-7" value="Pengukuran JKV" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
