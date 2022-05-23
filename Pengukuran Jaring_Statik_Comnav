@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T15:06:54.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="mYg8SF8uEy_yojU_K0be" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T15:07:17.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="t6bZUkbW1cLcRK_WVyB6" version="18.1.1" type="github">
   <diagram id="T62RKvuh-gktl8fUJkuF" name="Page-1">
     <mxGraphModel dx="1021" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,16 +110,16 @@
         <mxCell id="RoYoqphj_dhE6TBLbIvd-13" value="BM3.22G" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="650" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RoYoqphj_dhE6TBLbIvd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-14" target="RoYoqphj_dhE6TBLbIvd-4">
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;dashed=1;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-14" target="RoYoqphj_dhE6TBLbIvd-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RoYoqphj_dhE6TBLbIvd-14" value="Add Connection" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-14" value="&lt;i&gt;Add Connection&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="319" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RoYoqphj_dhE6TBLbIvd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-15" target="RoYoqphj_dhE6TBLbIvd-5">
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;dashed=1;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-15" target="RoYoqphj_dhE6TBLbIvd-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RoYoqphj_dhE6TBLbIvd-15" value="Station Name : BM3&lt;br&gt;Antenna : 1.52&lt;br&gt;Sampling(s) 1Hz" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;dashed=1;" vertex="1" parent="1">
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-15" value="&lt;i&gt;Station Name : BM3&lt;br&gt;Antenna : 1.52&lt;br&gt;Sampling(s) 1Hz&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="419" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RoYoqphj_dhE6TBLbIvd-30" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
