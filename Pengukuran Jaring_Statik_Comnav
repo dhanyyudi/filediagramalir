@@ -1,1 +1,131 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T14:42:05.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.1.1" etag="0zMz1AotnAZIZiifKbtG" type="github"><diagram id="T62RKvuh-gktl8fUJkuF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-23T15:06:54.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="mYg8SF8uEy_yojU_K0be" version="18.1.1" type="github">
+  <diagram id="T62RKvuh-gktl8fUJkuF" name="Page-1">
+    <mxGraphModel dx="1021" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-1" target="RoYoqphj_dhE6TBLbIvd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164" y="19" width="86" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-2" target="RoYoqphj_dhE6TBLbIvd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-2" value="Centering Nivo dan pengaturan Sumbu I Vertikal" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="147" y="119" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-3" target="RoYoqphj_dhE6TBLbIvd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-3" value="Menyalakan GPS dan Mengukur Tinggi Alat" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="147" y="219" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-4" target="RoYoqphj_dhE6TBLbIvd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-4" value="Membuka Survey Master di Controller dan memilih Device" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="147" y="319" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-5" target="RoYoqphj_dhE6TBLbIvd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-5" value="Static" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="147" y="419" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-6" target="RoYoqphj_dhE6TBLbIvd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-6" value="Start Record" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="524" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-7" target="RoYoqphj_dhE6TBLbIvd-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="284" y="600" />
+              <mxPoint x="200" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-7" value="Stop Record" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="224" y="524" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-8" target="RoYoqphj_dhE6TBLbIvd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-8" value="Membuka Compass Receiver Utility" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="320" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-9" target="RoYoqphj_dhE6TBLbIvd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-9" value="BM3.cnb" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="140" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-10" target="RoYoqphj_dhE6TBLbIvd-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-10" target="RoYoqphj_dhE6TBLbIvd-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="650" />
+              <mxPoint x="640" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-10" target="RoYoqphj_dhE6TBLbIvd-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="650" />
+              <mxPoint x="640" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-10" value="Pilih Setting RINEX 3.01" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="490" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-11" value="BM3.22O" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-12" target="RoYoqphj_dhE6TBLbIvd-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="540" />
+              <mxPoint x="780" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-12" value="BM3.22N" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="660" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-13" target="RoYoqphj_dhE6TBLbIvd-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="750" />
+              <mxPoint x="780" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-13" value="BM3.22G" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-14" target="RoYoqphj_dhE6TBLbIvd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-14" value="Add Connection" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="319" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="RoYoqphj_dhE6TBLbIvd-15" target="RoYoqphj_dhE6TBLbIvd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-15" value="Station Name : BM3&lt;br&gt;Antenna : 1.52&lt;br&gt;Sampling(s) 1Hz" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="419" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoYoqphj_dhE6TBLbIvd-30" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="620" width="86" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
