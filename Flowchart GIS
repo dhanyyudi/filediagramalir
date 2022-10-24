@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T07:55:17.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="WsprtHeTBIWY7p_F1-6E" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T07:57:38.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="noNrA5L_LjZe1PugOLIe" version="20.5.1" type="github">
   <diagram id="v2n2YXAaQgagnx72gRG8" name="Halaman-1">
-    <mxGraphModel dx="2585" dy="1404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="1" shadow="0">
+    <mxGraphModel dx="2844" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,18 +211,11 @@
         <mxCell id="OFDSob3iJ7-6jmKI22tb-33" value="Historical Trase Page" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;fillColor=#00994D;size=0.42857142857142855;" parent="1" vertex="1">
           <mxGeometry x="2580" y="1825" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OFDSob3iJ7-6jmKI22tb-202" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=11;fontColor=#000000;" parent="1" source="OFDSob3iJ7-6jmKI22tb-34" target="OFDSob3iJ7-6jmKI22tb-184" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2469" y="1780" />
-              <mxPoint x="2469" y="1860" />
-              <mxPoint x="2150" y="1860" />
-              <mxPoint x="2150" y="1915" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Z-h5pSy1b9NhvBK70-rD-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="OFDSob3iJ7-6jmKI22tb-34" target="OFDSob3iJ7-6jmKI22tb-184">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OFDSob3iJ7-6jmKI22tb-34" value="GeoBIM Page" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;fillColor=#00994D;size=0.42857142857142855;" parent="1" vertex="1">
-          <mxGeometry x="2927.16" y="1755" width="120" height="70" as="geometry" />
+          <mxGeometry x="2930" y="1880" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OFDSob3iJ7-6jmKI22tb-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;" parent="1" source="OFDSob3iJ7-6jmKI22tb-41" target="OFDSob3iJ7-6jmKI22tb-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -386,7 +379,7 @@
         <mxCell id="OFDSob3iJ7-6jmKI22tb-173" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;fontSize=11;fontColor=#000000;" parent="1" source="OFDSob3iJ7-6jmKI22tb-126" target="OFDSob3iJ7-6jmKI22tb-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OFDSob3iJ7-6jmKI22tb-174" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=11;fontColor=#000000;" parent="1" source="OFDSob3iJ7-6jmKI22tb-126" target="OFDSob3iJ7-6jmKI22tb-163" edge="1">
+        <mxCell id="OFDSob3iJ7-6jmKI22tb-174" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=11;fontColor=#000000;" parent="1" source="OFDSob3iJ7-6jmKI22tb-126" target="OFDSob3iJ7-6jmKI22tb-163" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OFDSob3iJ7-6jmKI22tb-126" value="Webmap Geoportal" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;fillColor=#CC99FF;" parent="1" vertex="1">
@@ -497,7 +490,7 @@
         <mxCell id="OFDSob3iJ7-6jmKI22tb-184" value="&lt;font face=&quot;Times New Roman&quot;&gt;Create Experience Builder&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontFamily=Tahoma;fontColor=#FFFFFF;fillColor=#00994D;" parent="1" vertex="1">
           <mxGeometry x="1900" y="1880" width="109.67" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OFDSob3iJ7-6jmKI22tb-204" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;fontSize=11;fontColor=#000000;" parent="1" source="OFDSob3iJ7-6jmKI22tb-185" edge="1">
+        <mxCell id="OFDSob3iJ7-6jmKI22tb-204" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=11;fontColor=#000000;" parent="1" source="OFDSob3iJ7-6jmKI22tb-185" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1140" y="2200" as="targetPoint" />
           </mxGeometry>
@@ -593,15 +586,8 @@
         <mxCell id="Z-h5pSy1b9NhvBK70-rD-49" value="&lt;font face=&quot;Times New Roman&quot;&gt;Upload ke Enterprise Geodatabase&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fontFamily=Tahoma;fontColor=#FFFFFF;fillColor=#B266FF;" vertex="1" parent="1">
           <mxGeometry x="345.1700000000001" y="1654" width="109.67" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Z-h5pSy1b9NhvBK70-rD-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=9;" edge="1" parent="1" source="Z-h5pSy1b9NhvBK70-rD-51" target="OFDSob3iJ7-6jmKI22tb-163">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="410" y="2030" />
-              <mxPoint x="1110" y="2030" />
-              <mxPoint x="1110" y="2170" />
-              <mxPoint x="1139" y="2170" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Z-h5pSy1b9NhvBK70-rD-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=9;" edge="1" parent="1" source="Z-h5pSy1b9NhvBK70-rD-51" target="OFDSob3iJ7-6jmKI22tb-163">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z-h5pSy1b9NhvBK70-rD-51" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;Enterprise Geodatabase Tiap Ruas Update (.egdb)&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;fillColor=#B266FF;align=center;" vertex="1" parent="1">
           <mxGeometry x="345.17" y="1760" width="110" height="80" as="geometry" />
