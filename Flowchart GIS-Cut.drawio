@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T08:48:41.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0YCDajGRKqy9Bj1L7kHU" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T08:50:14.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="fQi4kZbiYaMyX5_GwP3T" version="20.5.1" type="github">
   <diagram id="v2n2YXAaQgagnx72gRG8" name="Halaman-1">
-    <mxGraphModel dx="4740" dy="2573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="3160" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,13 +117,8 @@
         <mxCell id="OFDSob3iJ7-6jmKI22tb-75" value="&lt;font face=&quot;Times New Roman&quot;&gt;Persentase BD&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#FFFFFF;fontFamily=Tahoma;fontColor=#FFFFFF;fillColor=#00994D;" parent="1" vertex="1">
           <mxGeometry x="216.99999999999977" y="629" width="104" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OFDSob3iJ7-6jmKI22tb-112" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" parent="1" source="OFDSob3iJ7-6jmKI22tb-76" target="OFDSob3iJ7-6jmKI22tb-91" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="512.9999999999998" y="740" />
-              <mxPoint x="668.9999999999998" y="740" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="a0GXZD7oJbDEpGSqutC4-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="OFDSob3iJ7-6jmKI22tb-76" target="OFDSob3iJ7-6jmKI22tb-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OFDSob3iJ7-6jmKI22tb-76" value="&lt;font face=&quot;Times New Roman&quot;&gt;Persentase&lt;br&gt;&amp;nbsp;AMDAL&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#FFFFFF;fontFamily=Tahoma;fontColor=#FFFFFF;fillColor=#00994D;" parent="1" vertex="1">
           <mxGeometry x="460.9999999999998" y="629" width="104" height="60" as="geometry" />
@@ -376,7 +371,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z-h5pSy1b9NhvBK70-rD-27" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;Enterprise Geodatabase &lt;br&gt;Tiap Ruas (.egdb)&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;strokeColor=#FFFFFF;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;fillColor=#00994D;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1077.7299999999996" y="311" width="110.94" height="85" as="geometry" />
+          <mxGeometry x="1077.7299999999996" y="320" width="110.94" height="85" as="geometry" />
         </mxCell>
         <mxCell id="Z-h5pSy1b9NhvBK70-rD-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;Dokumen Perubahan/Persetujuan Trase (Surat, BA, Notulen, dst)&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#FFFFFF;fontFamily=Tahoma;fontColor=#FFFFFF;fillColor=#00994D;" parent="1" vertex="1">
           <mxGeometry x="1595.8199999999997" y="396" width="130" height="90" as="geometry" />
