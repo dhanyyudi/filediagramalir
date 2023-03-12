@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T17:48:15.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="rYlCNtAtpt-j5KSBsqEY" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T17:50:30.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="O2xKw2zUyl0beNPlh7_P" version="21.0.6" type="github">
   <diagram name="Halaman-1" id="iRGRqF0RRlQ8YncuhCtj">
-    <mxGraphModel dx="2933" dy="1740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3520" dy="2088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-12" target="ZfktJx4dn-ZNfnQeJaEY-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Publikasi Data ke Server format WMS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Publikasi Data ke Server format &lt;i&gt;Web Map Service&lt;/i&gt; (WMS)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="373.5" y="780" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-17" target="ZfktJx4dn-ZNfnQeJaEY-6">
@@ -119,7 +119,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-24" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Data Interchange Trans Sumatera&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-24" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Data &lt;i&gt;Interchange&lt;/i&gt; Trans Sumatera&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="254" y="450" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-25" target="ZfktJx4dn-ZNfnQeJaEY-40">
@@ -274,7 +274,7 @@
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-81" target="ZfktJx4dn-ZNfnQeJaEY-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pembuatan webGIS dengan Web AppBuilder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pembuatan &lt;i&gt;webGIS&lt;/i&gt; dengan &lt;i&gt;Web AppBuilder&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="373.5" y="1230" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-82" target="ZfktJx4dn-ZNfnQeJaEY-85">
@@ -292,25 +292,25 @@
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-82" target="ZfktJx4dn-ZNfnQeJaEY-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-82" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pembuatan widget&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-82" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pembuatan &lt;i&gt;widget&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="373.5" y="1310" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-83" target="ZfktJx4dn-ZNfnQeJaEY-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-83" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Analisis Spasial Buffer &amp;amp; Overlay&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-83" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Analisis Spasial &lt;i&gt;Buffer&lt;/i&gt; &amp;amp; &lt;i&gt;Overlay&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="55" y="1400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-84" target="ZfktJx4dn-ZNfnQeJaEY-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-84" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;enhanced Drawing (eDraw)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-84" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;enhanced Drawing&lt;/i&gt; (eDraw)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="230" y="1400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-85" target="ZfktJx4dn-ZNfnQeJaEY-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-85" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Add Data&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-85" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;Add Data&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="393.5" y="1400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-86" target="ZfktJx4dn-ZNfnQeJaEY-100">
@@ -322,7 +322,7 @@
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-87" target="ZfktJx4dn-ZNfnQeJaEY-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-87" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Custom Print&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-87" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;Custom Print&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="693" y="1400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-97" target="ZfktJx4dn-ZNfnQeJaEY-82">
@@ -342,7 +342,7 @@
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-98" target="ZfktJx4dn-ZNfnQeJaEY-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-98" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Deployment webGIS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="ZfktJx4dn-ZNfnQeJaEY-98" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;Deployment webGIS&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="373.5" y="1720" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-100" target="ZfktJx4dn-ZNfnQeJaEY-97">
