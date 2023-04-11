@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T01:42:42.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Ap5scmZvLXqCbWOtMn4r" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T01:44:40.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IBDC8c0SyxCG6saW-K7v" version="21.1.5" type="github">
   <diagram name="Halaman-1" id="iRGRqF0RRlQ8YncuhCtj">
-    <mxGraphModel dx="629" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="704" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,11 +120,20 @@
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-25" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Data spasial Batas Administrasi Pulau Sumatera&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="366.75" y="340" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-34" target="ZfktJx4dn-ZNfnQeJaEY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-34" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Batas &amp;amp; Label Provinsi&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="194" y="615" width="116" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-35" target="ZfktJx4dn-ZNfnQeJaEY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-35" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Batas &amp;amp; Label Kabupaten/Kota&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="320.5" y="615" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-36" target="ZfktJx4dn-ZNfnQeJaEY-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Batas &lt;br&gt;Kecamatan&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="448.13" y="615" width="110" height="50" as="geometry" />
@@ -163,6 +172,24 @@
         </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pengelompokkan trase sesuai tahapan pembangunan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="32" y="505" width="166" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-40" target="ZfktJx4dn-ZNfnQeJaEY-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-40" target="ZfktJx4dn-ZNfnQeJaEY-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-40" target="ZfktJx4dn-ZNfnQeJaEY-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-40" target="BRw02HBXFj92OOLPb3Hz-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-40" target="BRw02HBXFj92OOLPb3Hz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-40" target="BRw02HBXFj92OOLPb3Hz-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-40" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Simbolisasi dan &lt;i&gt;labeling&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="348.75" y="505" width="166" height="50" as="geometry" />
@@ -223,14 +250,24 @@
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-114" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Penyusunan laporan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="340" y="1850" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZfktJx4dn-ZNfnQeJaEY-117" target="fdf_OGVq0Rv3QBuxVznb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZfktJx4dn-ZNfnQeJaEY-117" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;ArcGIS Rest &lt;br&gt;API&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="1030" width="120" height="80" as="geometry" />
+          <mxGeometry x="371.75" y="1030" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AhFnMBwMgcfxavp63pvu-1" target="ZfktJx4dn-ZNfnQeJaEY-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="892" y="1086" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AhFnMBwMgcfxavp63pvu-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Data Pendukung &lt;br&gt;dari Kementerian/&lt;br&gt;Lembaga (.WMS)&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="765" y="340" width="130" height="60" as="geometry" />
+          <mxGeometry x="827" y="340" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fdf_OGVq0Rv3QBuxVznb-1" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;A&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="406.75" y="1169" width="50" height="50" as="geometry" />
+          <mxGeometry x="406.75" y="1140" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fdf_OGVq0Rv3QBuxVznb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fdf_OGVq0Rv3QBuxVznb-3" target="ZfktJx4dn-ZNfnQeJaEY-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -261,17 +298,32 @@
         <mxCell id="BRw02HBXFj92OOLPb3Hz-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Data spasial Jalan Pulau Sumatera&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="541.75" y="340" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-20" target="ZfktJx4dn-ZNfnQeJaEY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BRw02HBXFj92OOLPb3Hz-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Jalan&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;Nasional" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="561.75" y="615" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-21" target="ZfktJx4dn-ZNfnQeJaEY-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BRw02HBXFj92OOLPb3Hz-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Jalan&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;Provinsi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="671.75" y="615" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-22" target="ZfktJx4dn-ZNfnQeJaEY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BRw02HBXFj92OOLPb3Hz-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Interchange&lt;br&gt;&amp;nbsp;JTTS&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="775" y="615" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-24" target="BRw02HBXFj92OOLPb3Hz-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BRw02HBXFj92OOLPb3Hz-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Visualisasi Data Spasial&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="351.75" y="850" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-25" target="ZfktJx4dn-ZNfnQeJaEY-117">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BRw02HBXFj92OOLPb3Hz-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Publikasi Data dari Server ke format &lt;i&gt;Web Map Service&lt;/i&gt; (WMS)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="351.75" y="940" width="160" height="50" as="geometry" />
