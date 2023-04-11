@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T01:45:05.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="R-EZ4FjEEXP98TSUKBDL" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T07:06:15.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="RYk6PXYJ_6luUIDSWCXt" version="21.1.5" type="github">
   <diagram name="Halaman-1" id="iRGRqF0RRlQ8YncuhCtj">
-    <mxGraphModel dx="1956" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,6 +327,242 @@
         </mxCell>
         <mxCell id="BRw02HBXFj92OOLPb3Hz-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Publikasi Data dari Server ke format &lt;i&gt;Web Map Service&lt;/i&gt; (WMS)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="351.75" y="940" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-50" target="BRw02HBXFj92OOLPb3Hz-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-50" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1439.75" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-56" target="BRw02HBXFj92OOLPb3Hz-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-56" target="BRw02HBXFj92OOLPb3Hz-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-56" target="BRw02HBXFj92OOLPb3Hz-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-56" target="BRw02HBXFj92OOLPb3Hz-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-56" target="BRw02HBXFj92OOLPb3Hz-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-56" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pengumpulan Data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1409.75" y="220" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-59" target="BRw02HBXFj92OOLPb3Hz-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-59" target="BRw02HBXFj92OOLPb3Hz-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1490" y="485" />
+              <mxPoint x="1173" y="485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-59" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pengolahan Data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1409.75" y="430" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1489.75" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-61" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;ArcGIS Server&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1456.25" y="725.6699999999998" width="67" height="89.33" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-63" target="BRw02HBXFj92OOLPb3Hz-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1167" y="410" />
+              <mxPoint x="1490" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-63" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Data spasial trase JalanTol Trans &lt;br&gt;Sumatera&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-65" target="BRw02HBXFj92OOLPb3Hz-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1248" y="605" />
+              <mxPoint x="1248" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-65" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Trase JTTS Tahap I&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1108" y="585" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-67" target="BRw02HBXFj92OOLPb3Hz-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1248" y="670" />
+              <mxPoint x="1248" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-67" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Trase JTTS Tahap II&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="652" width="100" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-69" target="BRw02HBXFj92OOLPb3Hz-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1248" y="735" />
+              <mxPoint x="1248" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-69" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Trase JTTS Tahap III&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="715" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-71" target="BRw02HBXFj92OOLPb3Hz-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1248" y="795" />
+              <mxPoint x="1248" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-71" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Trase JTTS Tahap IV&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="775" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-73" target="BRw02HBXFj92OOLPb3Hz-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1328" y="410" />
+              <mxPoint x="1490" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-73" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Data spasial&amp;nbsp;&lt;i&gt;Interchange&lt;/i&gt; Trans Sumatera&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1263.5" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-75" target="BRw02HBXFj92OOLPb3Hz-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-75" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Data spasial Batas Administrasi Pulau Sumatera&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1424.75" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-77" target="BRw02HBXFj92OOLPb3Hz-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-77" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Batas &amp;amp; Label Provinsi&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1252" y="615" width="116" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-79" target="BRw02HBXFj92OOLPb3Hz-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-79" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Batas &amp;amp; Label Kabupaten/Kota&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1378.5" y="615" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-81" target="BRw02HBXFj92OOLPb3Hz-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-81" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Batas &lt;br&gt;Kecamatan&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1506.13" y="615" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-86" target="BRw02HBXFj92OOLPb3Hz-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="530" />
+              <mxPoint x="1070" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-86" target="BRw02HBXFj92OOLPb3Hz-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="530" />
+              <mxPoint x="1070" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-86" target="BRw02HBXFj92OOLPb3Hz-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="530" />
+              <mxPoint x="1070" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-86" target="BRw02HBXFj92OOLPb3Hz-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="530" />
+              <mxPoint x="1070" y="795" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-86" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pengelompokkan trase sesuai tahapan pembangunan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="505" width="166" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-93" target="BRw02HBXFj92OOLPb3Hz-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-93" target="BRw02HBXFj92OOLPb3Hz-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-93" target="BRw02HBXFj92OOLPb3Hz-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-93" target="BRw02HBXFj92OOLPb3Hz-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-93" target="BRw02HBXFj92OOLPb3Hz-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-93" target="BRw02HBXFj92OOLPb3Hz-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-93" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Simbolisasi dan &lt;i&gt;labeling&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1406.75" y="505" width="166" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-97" target="BRw02HBXFj92OOLPb3Hz-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-97" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Data Pendukung &lt;br&gt;dari Kementerian/&lt;br&gt;Lembaga (.WMS)&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1885" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-100" target="BRw02HBXFj92OOLPb3Hz-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-100" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;webGIS Jalan &lt;br&gt;Tol Trans Sumatera&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1421.5" y="120" width="136.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-102" target="BRw02HBXFj92OOLPb3Hz-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1665" y="410" />
+              <mxPoint x="1490" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-102" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Data spasial Jalan Pulau Sumatera&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1599.75" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-104" target="BRw02HBXFj92OOLPb3Hz-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-104" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Jalan&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;Nasional" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1619.75" y="615" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-106" target="BRw02HBXFj92OOLPb3Hz-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-106" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Jalan&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;Provinsi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1729.75" y="615" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BRw02HBXFj92OOLPb3Hz-108" target="BRw02HBXFj92OOLPb3Hz-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-108" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Interchange&lt;br&gt;&amp;nbsp;JTTS&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1833" y="615" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRw02HBXFj92OOLPb3Hz-113" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;A&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1464.75" y="850" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
