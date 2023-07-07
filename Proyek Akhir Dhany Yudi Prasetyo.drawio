@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T11:55:59.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tpEIm2TWXFVlqkA0NmGl" version="21.6.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-07T12:29:48.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ghvOF8SArCPxcf4nGBok" version="21.6.1" type="github" pages="4">
   <diagram name="Halaman-1" id="iRGRqF0RRlQ8YncuhCtj">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1371,7 +1371,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Rev2 BAB1-2" id="4DTIbWpdQkNstlr8q_hk">
-    <mxGraphModel dx="2868" dy="2837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="2032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OAMsTaT7ikeQiVj8Ipdn-0" />
         <mxCell id="OAMsTaT7ikeQiVj8Ipdn-1" parent="OAMsTaT7ikeQiVj8Ipdn-0" />
@@ -1569,7 +1569,7 @@
             <mxPoint x="1405.3700000000001" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAMsTaT7ikeQiVj8Ipdn-52" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;webGIS &lt;br&gt;JalanTol Trans Sumatera (Development)&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="OAMsTaT7ikeQiVj8Ipdn-1">
+        <mxCell id="OAMsTaT7ikeQiVj8Ipdn-52" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;webGIS &lt;/i&gt;&lt;br&gt;JalanTol Trans Sumatera (&lt;i&gt;Development&lt;/i&gt;)&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="OAMsTaT7ikeQiVj8Ipdn-1">
           <mxGeometry x="1320.0000000000002" y="345" width="174.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OAMsTaT7ikeQiVj8Ipdn-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="OAMsTaT7ikeQiVj8Ipdn-1" source="OAMsTaT7ikeQiVj8Ipdn-50" target="OAMsTaT7ikeQiVj8Ipdn-50">
