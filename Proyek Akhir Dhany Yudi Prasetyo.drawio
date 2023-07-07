@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T12:29:48.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ghvOF8SArCPxcf4nGBok" version="21.6.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-07T12:30:01.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fKZyxZUrpGk_kwuAHh51" version="21.6.1" type="github" pages="4">
   <diagram name="Halaman-1" id="iRGRqF0RRlQ8YncuhCtj">
     <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1371,7 +1371,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Rev2 BAB1-2" id="4DTIbWpdQkNstlr8q_hk">
-    <mxGraphModel dx="1593" dy="2032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="637" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OAMsTaT7ikeQiVj8Ipdn-0" />
         <mxCell id="OAMsTaT7ikeQiVj8Ipdn-1" parent="OAMsTaT7ikeQiVj8Ipdn-0" />
@@ -1550,7 +1550,7 @@
         <mxCell id="OAMsTaT7ikeQiVj8Ipdn-46" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Simbolisasi dan &lt;i&gt;labeling&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="OAMsTaT7ikeQiVj8Ipdn-1">
           <mxGeometry x="487.69" y="400" width="166" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OAMsTaT7ikeQiVj8Ipdn-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Konfigurasi webGIS menggunakan ArcGIS Web App Builder&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="OAMsTaT7ikeQiVj8Ipdn-1">
+        <mxCell id="OAMsTaT7ikeQiVj8Ipdn-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Konfigurasi &lt;i&gt;webGIS&lt;/i&gt; menggunakan &lt;i&gt;ArcGIS Web App Builder&lt;/i&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="OAMsTaT7ikeQiVj8Ipdn-1">
           <mxGeometry x="1327.3700000000001" y="175" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OAMsTaT7ikeQiVj8Ipdn-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="OAMsTaT7ikeQiVj8Ipdn-1" target="OAMsTaT7ikeQiVj8Ipdn-50">
